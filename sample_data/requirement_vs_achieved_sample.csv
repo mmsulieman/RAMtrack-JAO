@@ -1,0 +1,744 @@
+Month,Activity,Modality,Entity,Woreda,FDP_ID,FDP/Site Name,Checklist Type,Required Count,Latitude,Longitude,GPS,Achieved,Gap,Completion %,Status,Visited Status
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-001,Awbare FDP 01,Beneficiary Contact Monitoring,6,9.398614,42.790773,"9.398614, 42.790773",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-001,Awbare FDP 01,Food Basket Monitoring,6,9.398614,42.790773,"9.398614, 42.790773",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-001,Awbare FDP 01,Warehouse Monitoring,1,9.398614,42.790773,"9.398614, 42.790773",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-001,Awbare FDP 01,Distribution Observation,1,9.398614,42.790773,"9.398614, 42.790773",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-001,Awbare FDP 01,Partner Performance Monitoring,1,9.398614,42.790773,"9.398614, 42.790773",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-002,Awbare FDP 02,Beneficiary Contact Monitoring,6,9.369665,42.651121,"9.369665, 42.651121",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-002,Awbare FDP 02,Food Basket Monitoring,6,9.369665,42.651121,"9.369665, 42.651121",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-002,Awbare FDP 02,Warehouse Monitoring,1,9.369665,42.651121,"9.369665, 42.651121",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-002,Awbare FDP 02,Distribution Observation,1,9.369665,42.651121,"9.369665, 42.651121",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-002,Awbare FDP 02,Partner Performance Monitoring,1,9.369665,42.651121,"9.369665, 42.651121",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-003,Awbare FDP 03,Beneficiary Contact Monitoring,6,9.290334,42.810783,"9.290334, 42.810783",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-003,Awbare FDP 03,Food Basket Monitoring,6,9.290334,42.810783,"9.290334, 42.810783",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-003,Awbare FDP 03,Warehouse Monitoring,1,9.290334,42.810783,"9.290334, 42.810783",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-003,Awbare FDP 03,Distribution Observation,1,9.290334,42.810783,"9.290334, 42.810783",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-003,Awbare FDP 03,Partner Performance Monitoring,1,9.290334,42.810783,"9.290334, 42.810783",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-004,Awbare FDP 04,Beneficiary Contact Monitoring,6,9.401671,42.726184,"9.401671, 42.726184",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-004,Awbare FDP 04,Food Basket Monitoring,6,9.401671,42.726184,"9.401671, 42.726184",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-004,Awbare FDP 04,Warehouse Monitoring,1,9.401671,42.726184,"9.401671, 42.726184",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-004,Awbare FDP 04,Distribution Observation,1,9.401671,42.726184,"9.401671, 42.726184",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-004,Awbare FDP 04,Partner Performance Monitoring,1,9.401671,42.726184,"9.401671, 42.726184",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-005,Awbare FDP 05,Beneficiary Contact Monitoring,6,9.37767,42.802353,"9.37767, 42.802353",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-005,Awbare FDP 05,Food Basket Monitoring,6,9.37767,42.802353,"9.37767, 42.802353",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-005,Awbare FDP 05,Warehouse Monitoring,1,9.37767,42.802353,"9.37767, 42.802353",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-005,Awbare FDP 05,Distribution Observation,1,9.37767,42.802353,"9.37767, 42.802353",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-005,Awbare FDP 05,Partner Performance Monitoring,1,9.37767,42.802353,"9.37767, 42.802353",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-006,Awbare FDP 06,Beneficiary Contact Monitoring,6,9.36779,42.752862,"9.36779, 42.752862",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-006,Awbare FDP 06,Food Basket Monitoring,6,9.36779,42.752862,"9.36779, 42.752862",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-006,Awbare FDP 06,Warehouse Monitoring,1,9.36779,42.752862,"9.36779, 42.752862",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-006,Awbare FDP 06,Distribution Observation,1,9.36779,42.752862,"9.36779, 42.752862",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-006,Awbare FDP 06,Partner Performance Monitoring,1,9.36779,42.752862,"9.36779, 42.752862",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-007,Awbare FDP 07,Beneficiary Contact Monitoring,6,9.306439,42.73367,"9.306439, 42.73367",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-007,Awbare FDP 07,Food Basket Monitoring,6,9.306439,42.73367,"9.306439, 42.73367",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-007,Awbare FDP 07,Warehouse Monitoring,1,9.306439,42.73367,"9.306439, 42.73367",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-007,Awbare FDP 07,Distribution Observation,1,9.306439,42.73367,"9.306439, 42.73367",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-007,Awbare FDP 07,Partner Performance Monitoring,1,9.306439,42.73367,"9.306439, 42.73367",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-008,Awbare FDP 08,Beneficiary Contact Monitoring,6,9.279627,42.793514,"9.279627, 42.793514",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-008,Awbare FDP 08,Food Basket Monitoring,6,9.279627,42.793514,"9.279627, 42.793514",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-008,Awbare FDP 08,Warehouse Monitoring,1,9.279627,42.793514,"9.279627, 42.793514",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-008,Awbare FDP 08,Distribution Observation,1,9.279627,42.793514,"9.279627, 42.793514",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-008,Awbare FDP 08,Partner Performance Monitoring,1,9.279627,42.793514,"9.279627, 42.793514",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-009,Awbare FDP 09,Beneficiary Contact Monitoring,6,9.347569,42.86622,"9.347569, 42.86622",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-009,Awbare FDP 09,Food Basket Monitoring,6,9.347569,42.86622,"9.347569, 42.86622",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-009,Awbare FDP 09,Warehouse Monitoring,1,9.347569,42.86622,"9.347569, 42.86622",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-009,Awbare FDP 09,Distribution Observation,1,9.347569,42.86622,"9.347569, 42.86622",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-009,Awbare FDP 09,Partner Performance Monitoring,1,9.347569,42.86622,"9.347569, 42.86622",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-010,Awbare FDP 10,Beneficiary Contact Monitoring,6,9.407811,42.80235,"9.407811, 42.80235",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-010,Awbare FDP 10,Food Basket Monitoring,6,9.407811,42.80235,"9.407811, 42.80235",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-010,Awbare FDP 10,Warehouse Monitoring,1,9.407811,42.80235,"9.407811, 42.80235",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-010,Awbare FDP 10,Distribution Observation,1,9.407811,42.80235,"9.407811, 42.80235",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-010,Awbare FDP 10,Partner Performance Monitoring,1,9.407811,42.80235,"9.407811, 42.80235",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-011,Awbare FDP 11,Beneficiary Contact Monitoring,6,9.340724,42.604566,"9.340724, 42.604566",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-011,Awbare FDP 11,Food Basket Monitoring,6,9.340724,42.604566,"9.340724, 42.604566",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-011,Awbare FDP 11,Warehouse Monitoring,1,9.340724,42.604566,"9.340724, 42.604566",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-011,Awbare FDP 11,Distribution Observation,1,9.340724,42.604566,"9.340724, 42.604566",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-011,Awbare FDP 11,Partner Performance Monitoring,1,9.340724,42.604566,"9.340724, 42.604566",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-012,Awbare FDP 12,Beneficiary Contact Monitoring,6,9.411607,42.853303,"9.411607, 42.853303",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-012,Awbare FDP 12,Food Basket Monitoring,6,9.411607,42.853303,"9.411607, 42.853303",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-012,Awbare FDP 12,Warehouse Monitoring,1,9.411607,42.853303,"9.411607, 42.853303",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-012,Awbare FDP 12,Distribution Observation,1,9.411607,42.853303,"9.411607, 42.853303",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-012,Awbare FDP 12,Partner Performance Monitoring,1,9.411607,42.853303,"9.411607, 42.853303",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-013,Awbare FDP 13,Beneficiary Contact Monitoring,6,9.336616,42.772848,"9.336616, 42.772848",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-013,Awbare FDP 13,Food Basket Monitoring,6,9.336616,42.772848,"9.336616, 42.772848",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-013,Awbare FDP 13,Warehouse Monitoring,1,9.336616,42.772848,"9.336616, 42.772848",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-013,Awbare FDP 13,Distribution Observation,1,9.336616,42.772848,"9.336616, 42.772848",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-013,Awbare FDP 13,Partner Performance Monitoring,1,9.336616,42.772848,"9.336616, 42.772848",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-014,Awbare FDP 14,Beneficiary Contact Monitoring,6,9.344004,42.86559,"9.344004, 42.86559",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-014,Awbare FDP 14,Food Basket Monitoring,6,9.344004,42.86559,"9.344004, 42.86559",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-014,Awbare FDP 14,Warehouse Monitoring,1,9.344004,42.86559,"9.344004, 42.86559",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-014,Awbare FDP 14,Distribution Observation,1,9.344004,42.86559,"9.344004, 42.86559",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-014,Awbare FDP 14,Partner Performance Monitoring,1,9.344004,42.86559,"9.344004, 42.86559",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-015,Awbare FDP 15,Beneficiary Contact Monitoring,6,9.357083,42.666318,"9.357083, 42.666318",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-015,Awbare FDP 15,Food Basket Monitoring,6,9.357083,42.666318,"9.357083, 42.666318",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-015,Awbare FDP 15,Warehouse Monitoring,1,9.357083,42.666318,"9.357083, 42.666318",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-015,Awbare FDP 15,Distribution Observation,1,9.357083,42.666318,"9.357083, 42.666318",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-015,Awbare FDP 15,Partner Performance Monitoring,1,9.357083,42.666318,"9.357083, 42.666318",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-016,Awbare FDP 16,Beneficiary Contact Monitoring,6,9.301298,42.719248,"9.301298, 42.719248",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-016,Awbare FDP 16,Food Basket Monitoring,6,9.301298,42.719248,"9.301298, 42.719248",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-016,Awbare FDP 16,Warehouse Monitoring,1,9.301298,42.719248,"9.301298, 42.719248",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-016,Awbare FDP 16,Distribution Observation,1,9.301298,42.719248,"9.301298, 42.719248",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-016,Awbare FDP 16,Partner Performance Monitoring,1,9.301298,42.719248,"9.301298, 42.719248",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-017,Awbare FDP 17,Beneficiary Contact Monitoring,6,9.401308,42.893291,"9.401308, 42.893291",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-017,Awbare FDP 17,Food Basket Monitoring,6,9.401308,42.893291,"9.401308, 42.893291",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-017,Awbare FDP 17,Warehouse Monitoring,1,9.401308,42.893291,"9.401308, 42.893291",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-017,Awbare FDP 17,Distribution Observation,1,9.401308,42.893291,"9.401308, 42.893291",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-017,Awbare FDP 17,Partner Performance Monitoring,1,9.401308,42.893291,"9.401308, 42.893291",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-018,Awbare FDP 18,Beneficiary Contact Monitoring,6,9.298578,42.691286,"9.298578, 42.691286",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-018,Awbare FDP 18,Food Basket Monitoring,6,9.298578,42.691286,"9.298578, 42.691286",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-018,Awbare FDP 18,Warehouse Monitoring,1,9.298578,42.691286,"9.298578, 42.691286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-018,Awbare FDP 18,Distribution Observation,1,9.298578,42.691286,"9.298578, 42.691286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-018,Awbare FDP 18,Partner Performance Monitoring,1,9.298578,42.691286,"9.298578, 42.691286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-019,Awbare FDP 19,Beneficiary Contact Monitoring,6,9.378989,42.694689,"9.378989, 42.694689",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-019,Awbare FDP 19,Food Basket Monitoring,6,9.378989,42.694689,"9.378989, 42.694689",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-019,Awbare FDP 19,Warehouse Monitoring,1,9.378989,42.694689,"9.378989, 42.694689",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-019,Awbare FDP 19,Distribution Observation,1,9.378989,42.694689,"9.378989, 42.694689",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-019,Awbare FDP 19,Partner Performance Monitoring,1,9.378989,42.694689,"9.378989, 42.694689",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-020,Awbare FDP 20,Beneficiary Contact Monitoring,6,9.368129,42.717491,"9.368129, 42.717491",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-020,Awbare FDP 20,Food Basket Monitoring,6,9.368129,42.717491,"9.368129, 42.717491",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-020,Awbare FDP 20,Warehouse Monitoring,1,9.368129,42.717491,"9.368129, 42.717491",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-020,Awbare FDP 20,Distribution Observation,1,9.368129,42.717491,"9.368129, 42.717491",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-020,Awbare FDP 20,Partner Performance Monitoring,1,9.368129,42.717491,"9.368129, 42.717491",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-021,Awbare FDP 21,Beneficiary Contact Monitoring,6,9.331383,42.797653,"9.331383, 42.797653",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-021,Awbare FDP 21,Food Basket Monitoring,6,9.331383,42.797653,"9.331383, 42.797653",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-021,Awbare FDP 21,Warehouse Monitoring,1,9.331383,42.797653,"9.331383, 42.797653",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-021,Awbare FDP 21,Distribution Observation,1,9.331383,42.797653,"9.331383, 42.797653",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-021,Awbare FDP 21,Partner Performance Monitoring,1,9.331383,42.797653,"9.331383, 42.797653",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-022,Awbare FDP 22,Beneficiary Contact Monitoring,6,9.316873,42.86496,"9.316873, 42.86496",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-022,Awbare FDP 22,Food Basket Monitoring,6,9.316873,42.86496,"9.316873, 42.86496",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-022,Awbare FDP 22,Warehouse Monitoring,1,9.316873,42.86496,"9.316873, 42.86496",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-022,Awbare FDP 22,Distribution Observation,1,9.316873,42.86496,"9.316873, 42.86496",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-022,Awbare FDP 22,Partner Performance Monitoring,1,9.316873,42.86496,"9.316873, 42.86496",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-023,Awbare FDP 23,Beneficiary Contact Monitoring,6,9.385587,42.812627,"9.385587, 42.812627",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-023,Awbare FDP 23,Food Basket Monitoring,6,9.385587,42.812627,"9.385587, 42.812627",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-023,Awbare FDP 23,Warehouse Monitoring,1,9.385587,42.812627,"9.385587, 42.812627",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-023,Awbare FDP 23,Distribution Observation,1,9.385587,42.812627,"9.385587, 42.812627",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-023,Awbare FDP 23,Partner Performance Monitoring,1,9.385587,42.812627,"9.385587, 42.812627",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-024,Awbare FDP 24,Beneficiary Contact Monitoring,6,9.374091,42.854678,"9.374091, 42.854678",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-024,Awbare FDP 24,Food Basket Monitoring,6,9.374091,42.854678,"9.374091, 42.854678",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-024,Awbare FDP 24,Warehouse Monitoring,1,9.374091,42.854678,"9.374091, 42.854678",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-024,Awbare FDP 24,Distribution Observation,1,9.374091,42.854678,"9.374091, 42.854678",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-024,Awbare FDP 24,Partner Performance Monitoring,1,9.374091,42.854678,"9.374091, 42.854678",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-025,Awbare FDP 25,Beneficiary Contact Monitoring,6,9.416248,42.854349,"9.416248, 42.854349",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-025,Awbare FDP 25,Food Basket Monitoring,6,9.416248,42.854349,"9.416248, 42.854349",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-025,Awbare FDP 25,Warehouse Monitoring,1,9.416248,42.854349,"9.416248, 42.854349",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-025,Awbare FDP 25,Distribution Observation,1,9.416248,42.854349,"9.416248, 42.854349",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-025,Awbare FDP 25,Partner Performance Monitoring,1,9.416248,42.854349,"9.416248, 42.854349",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-026,Awbare FDP 26,Beneficiary Contact Monitoring,6,9.377139,42.63126,"9.377139, 42.63126",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-026,Awbare FDP 26,Food Basket Monitoring,6,9.377139,42.63126,"9.377139, 42.63126",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-026,Awbare FDP 26,Warehouse Monitoring,1,9.377139,42.63126,"9.377139, 42.63126",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-026,Awbare FDP 26,Distribution Observation,1,9.377139,42.63126,"9.377139, 42.63126",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-026,Awbare FDP 26,Partner Performance Monitoring,1,9.377139,42.63126,"9.377139, 42.63126",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-027,Awbare FDP 27,Beneficiary Contact Monitoring,6,9.319465,42.780083,"9.319465, 42.780083",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-027,Awbare FDP 27,Food Basket Monitoring,6,9.319465,42.780083,"9.319465, 42.780083",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-027,Awbare FDP 27,Warehouse Monitoring,1,9.319465,42.780083,"9.319465, 42.780083",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-027,Awbare FDP 27,Distribution Observation,1,9.319465,42.780083,"9.319465, 42.780083",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-027,Awbare FDP 27,Partner Performance Monitoring,1,9.319465,42.780083,"9.319465, 42.780083",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-028,Awbare FDP 28,Beneficiary Contact Monitoring,6,9.39714,42.861463,"9.39714, 42.861463",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-028,Awbare FDP 28,Food Basket Monitoring,6,9.39714,42.861463,"9.39714, 42.861463",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-028,Awbare FDP 28,Warehouse Monitoring,1,9.39714,42.861463,"9.39714, 42.861463",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-028,Awbare FDP 28,Distribution Observation,1,9.39714,42.861463,"9.39714, 42.861463",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-028,Awbare FDP 28,Partner Performance Monitoring,1,9.39714,42.861463,"9.39714, 42.861463",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-029,Awbare FDP 29,Beneficiary Contact Monitoring,6,9.337919,42.862687,"9.337919, 42.862687",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-029,Awbare FDP 29,Food Basket Monitoring,6,9.337919,42.862687,"9.337919, 42.862687",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-029,Awbare FDP 29,Warehouse Monitoring,1,9.337919,42.862687,"9.337919, 42.862687",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-029,Awbare FDP 29,Distribution Observation,1,9.337919,42.862687,"9.337919, 42.862687",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-029,Awbare FDP 29,Partner Performance Monitoring,1,9.337919,42.862687,"9.337919, 42.862687",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-030,Awbare FDP 30,Beneficiary Contact Monitoring,6,9.268469,42.732911,"9.268469, 42.732911",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-030,Awbare FDP 30,Food Basket Monitoring,6,9.268469,42.732911,"9.268469, 42.732911",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-030,Awbare FDP 30,Warehouse Monitoring,1,9.268469,42.732911,"9.268469, 42.732911",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-030,Awbare FDP 30,Distribution Observation,1,9.268469,42.732911,"9.268469, 42.732911",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-030,Awbare FDP 30,Partner Performance Monitoring,1,9.268469,42.732911,"9.268469, 42.732911",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-031,Awbare FDP 31,Beneficiary Contact Monitoring,6,9.304422,42.786273,"9.304422, 42.786273",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-031,Awbare FDP 31,Food Basket Monitoring,6,9.304422,42.786273,"9.304422, 42.786273",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-031,Awbare FDP 31,Warehouse Monitoring,1,9.304422,42.786273,"9.304422, 42.786273",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-031,Awbare FDP 31,Distribution Observation,1,9.304422,42.786273,"9.304422, 42.786273",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-031,Awbare FDP 31,Partner Performance Monitoring,1,9.304422,42.786273,"9.304422, 42.786273",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-032,Awbare FDP 32,Beneficiary Contact Monitoring,6,9.379025,42.788571,"9.379025, 42.788571",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-032,Awbare FDP 32,Food Basket Monitoring,6,9.379025,42.788571,"9.379025, 42.788571",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-032,Awbare FDP 32,Warehouse Monitoring,1,9.379025,42.788571,"9.379025, 42.788571",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-032,Awbare FDP 32,Distribution Observation,1,9.379025,42.788571,"9.379025, 42.788571",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-032,Awbare FDP 32,Partner Performance Monitoring,1,9.379025,42.788571,"9.379025, 42.788571",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-033,Awbare FDP 33,Beneficiary Contact Monitoring,6,9.421579,42.725286,"9.421579, 42.725286",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-033,Awbare FDP 33,Food Basket Monitoring,6,9.421579,42.725286,"9.421579, 42.725286",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-033,Awbare FDP 33,Warehouse Monitoring,1,9.421579,42.725286,"9.421579, 42.725286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-033,Awbare FDP 33,Distribution Observation,1,9.421579,42.725286,"9.421579, 42.725286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-033,Awbare FDP 33,Partner Performance Monitoring,1,9.421579,42.725286,"9.421579, 42.725286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-034,Awbare FDP 34,Beneficiary Contact Monitoring,6,9.465207,42.799769,"9.465207, 42.799769",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-034,Awbare FDP 34,Food Basket Monitoring,6,9.465207,42.799769,"9.465207, 42.799769",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-034,Awbare FDP 34,Warehouse Monitoring,1,9.465207,42.799769,"9.465207, 42.799769",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-034,Awbare FDP 34,Distribution Observation,1,9.465207,42.799769,"9.465207, 42.799769",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-034,Awbare FDP 34,Partner Performance Monitoring,1,9.465207,42.799769,"9.465207, 42.799769",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-035,Awbare FDP 35,Beneficiary Contact Monitoring,6,9.388005,42.698285,"9.388005, 42.698285",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-035,Awbare FDP 35,Food Basket Monitoring,6,9.388005,42.698285,"9.388005, 42.698285",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-035,Awbare FDP 35,Warehouse Monitoring,1,9.388005,42.698285,"9.388005, 42.698285",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-035,Awbare FDP 35,Distribution Observation,1,9.388005,42.698285,"9.388005, 42.698285",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-035,Awbare FDP 35,Partner Performance Monitoring,1,9.388005,42.698285,"9.388005, 42.698285",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-036,Awbare FDP 36,Beneficiary Contact Monitoring,6,9.355433,42.767442,"9.355433, 42.767442",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-036,Awbare FDP 36,Food Basket Monitoring,6,9.355433,42.767442,"9.355433, 42.767442",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-036,Awbare FDP 36,Warehouse Monitoring,1,9.355433,42.767442,"9.355433, 42.767442",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-036,Awbare FDP 36,Distribution Observation,1,9.355433,42.767442,"9.355433, 42.767442",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-036,Awbare FDP 36,Partner Performance Monitoring,1,9.355433,42.767442,"9.355433, 42.767442",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-037,Awbare FDP 37,Beneficiary Contact Monitoring,6,9.302987,42.751777,"9.302987, 42.751777",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-037,Awbare FDP 37,Food Basket Monitoring,6,9.302987,42.751777,"9.302987, 42.751777",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-037,Awbare FDP 37,Warehouse Monitoring,1,9.302987,42.751777,"9.302987, 42.751777",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-037,Awbare FDP 37,Distribution Observation,1,9.302987,42.751777,"9.302987, 42.751777",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-037,Awbare FDP 37,Partner Performance Monitoring,1,9.302987,42.751777,"9.302987, 42.751777",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-038,Awbare FDP 38,Beneficiary Contact Monitoring,6,9.297078,42.753465,"9.297078, 42.753465",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-038,Awbare FDP 38,Food Basket Monitoring,6,9.297078,42.753465,"9.297078, 42.753465",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-038,Awbare FDP 38,Warehouse Monitoring,1,9.297078,42.753465,"9.297078, 42.753465",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-038,Awbare FDP 38,Distribution Observation,1,9.297078,42.753465,"9.297078, 42.753465",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-038,Awbare FDP 38,Partner Performance Monitoring,1,9.297078,42.753465,"9.297078, 42.753465",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-039,Awbare FDP 39,Beneficiary Contact Monitoring,6,9.336829,42.805286,"9.336829, 42.805286",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-039,Awbare FDP 39,Food Basket Monitoring,6,9.336829,42.805286,"9.336829, 42.805286",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-039,Awbare FDP 39,Warehouse Monitoring,1,9.336829,42.805286,"9.336829, 42.805286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-039,Awbare FDP 39,Distribution Observation,1,9.336829,42.805286,"9.336829, 42.805286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-039,Awbare FDP 39,Partner Performance Monitoring,1,9.336829,42.805286,"9.336829, 42.805286",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-040,Awbare FDP 40,Beneficiary Contact Monitoring,6,9.385554,42.806807,"9.385554, 42.806807",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-040,Awbare FDP 40,Food Basket Monitoring,6,9.385554,42.806807,"9.385554, 42.806807",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-040,Awbare FDP 40,Warehouse Monitoring,1,9.385554,42.806807,"9.385554, 42.806807",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-040,Awbare FDP 40,Distribution Observation,1,9.385554,42.806807,"9.385554, 42.806807",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Awbare,REL-AWBA-040,Awbare FDP 40,Partner Performance Monitoring,1,9.385554,42.806807,"9.385554, 42.806807",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-041,Awbare FDP 41,Beneficiary Contact Monitoring,6,9.352101,42.834422,"9.352101, 42.834422",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-041,Awbare FDP 41,Food Basket Monitoring,6,9.352101,42.834422,"9.352101, 42.834422",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-041,Awbare FDP 41,Warehouse Monitoring,1,9.352101,42.834422,"9.352101, 42.834422",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-041,Awbare FDP 41,Distribution Observation,1,9.352101,42.834422,"9.352101, 42.834422",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-041,Awbare FDP 41,Partner Performance Monitoring,1,9.352101,42.834422,"9.352101, 42.834422",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-042,Awbare FDP 42,Beneficiary Contact Monitoring,6,9.357899,42.821266,"9.357899, 42.821266",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-042,Awbare FDP 42,Food Basket Monitoring,6,9.357899,42.821266,"9.357899, 42.821266",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-042,Awbare FDP 42,Warehouse Monitoring,1,9.357899,42.821266,"9.357899, 42.821266",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-042,Awbare FDP 42,Distribution Observation,1,9.357899,42.821266,"9.357899, 42.821266",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Awbare,REL-AWBA-042,Awbare FDP 42,Partner Performance Monitoring,1,9.357899,42.821266,"9.357899, 42.821266",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Cash,WFP,Babile,REL-BABI-001,Babile FDP 01,Beneficiary Contact Monitoring,6,9.197474,42.399607,"9.197474, 42.399607",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,WFP,Babile,REL-BABI-001,Babile FDP 01,Food Basket Monitoring,6,9.197474,42.399607,"9.197474, 42.399607",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,WFP,Babile,REL-BABI-001,Babile FDP 01,Warehouse Monitoring,1,9.197474,42.399607,"9.197474, 42.399607",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,WFP,Babile,REL-BABI-001,Babile FDP 01,Distribution Observation,1,9.197474,42.399607,"9.197474, 42.399607",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,WFP,Babile,REL-BABI-001,Babile FDP 01,Partner Performance Monitoring,1,9.197474,42.399607,"9.197474, 42.399607",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-002,Babile FDP 02,Beneficiary Contact Monitoring,6,9.197751,42.383191,"9.197751, 42.383191",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-002,Babile FDP 02,Food Basket Monitoring,6,9.197751,42.383191,"9.197751, 42.383191",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-002,Babile FDP 02,Warehouse Monitoring,1,9.197751,42.383191,"9.197751, 42.383191",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-002,Babile FDP 02,Distribution Observation,1,9.197751,42.383191,"9.197751, 42.383191",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-002,Babile FDP 02,Partner Performance Monitoring,1,9.197751,42.383191,"9.197751, 42.383191",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-003,Babile FDP 03,Beneficiary Contact Monitoring,6,9.16836,42.215419,"9.16836, 42.215419",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-003,Babile FDP 03,Food Basket Monitoring,6,9.16836,42.215419,"9.16836, 42.215419",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-003,Babile FDP 03,Warehouse Monitoring,1,9.16836,42.215419,"9.16836, 42.215419",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-003,Babile FDP 03,Distribution Observation,1,9.16836,42.215419,"9.16836, 42.215419",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-003,Babile FDP 03,Partner Performance Monitoring,1,9.16836,42.215419,"9.16836, 42.215419",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-004,Babile FDP 04,Beneficiary Contact Monitoring,6,9.280249,42.301655,"9.280249, 42.301655",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-004,Babile FDP 04,Food Basket Monitoring,6,9.280249,42.301655,"9.280249, 42.301655",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-004,Babile FDP 04,Warehouse Monitoring,1,9.280249,42.301655,"9.280249, 42.301655",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-004,Babile FDP 04,Distribution Observation,1,9.280249,42.301655,"9.280249, 42.301655",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-004,Babile FDP 04,Partner Performance Monitoring,1,9.280249,42.301655,"9.280249, 42.301655",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-005,Babile FDP 05,Beneficiary Contact Monitoring,6,9.140698,42.242083,"9.140698, 42.242083",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-005,Babile FDP 05,Food Basket Monitoring,6,9.140698,42.242083,"9.140698, 42.242083",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-005,Babile FDP 05,Warehouse Monitoring,1,9.140698,42.242083,"9.140698, 42.242083",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-005,Babile FDP 05,Distribution Observation,1,9.140698,42.242083,"9.140698, 42.242083",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-005,Babile FDP 05,Partner Performance Monitoring,1,9.140698,42.242083,"9.140698, 42.242083",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-006,Babile FDP 06,Beneficiary Contact Monitoring,6,9.130377,42.220161,"9.130377, 42.220161",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-006,Babile FDP 06,Food Basket Monitoring,6,9.130377,42.220161,"9.130377, 42.220161",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-006,Babile FDP 06,Warehouse Monitoring,1,9.130377,42.220161,"9.130377, 42.220161",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-006,Babile FDP 06,Distribution Observation,1,9.130377,42.220161,"9.130377, 42.220161",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-006,Babile FDP 06,Partner Performance Monitoring,1,9.130377,42.220161,"9.130377, 42.220161",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-007,Babile FDP 07,Beneficiary Contact Monitoring,6,9.161911,42.350485,"9.161911, 42.350485",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-007,Babile FDP 07,Food Basket Monitoring,6,9.161911,42.350485,"9.161911, 42.350485",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-007,Babile FDP 07,Warehouse Monitoring,1,9.161911,42.350485,"9.161911, 42.350485",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-007,Babile FDP 07,Distribution Observation,1,9.161911,42.350485,"9.161911, 42.350485",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-007,Babile FDP 07,Partner Performance Monitoring,1,9.161911,42.350485,"9.161911, 42.350485",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-008,Babile FDP 08,Beneficiary Contact Monitoring,6,9.167749,42.36719,"9.167749, 42.36719",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-008,Babile FDP 08,Food Basket Monitoring,6,9.167749,42.36719,"9.167749, 42.36719",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-008,Babile FDP 08,Warehouse Monitoring,1,9.167749,42.36719,"9.167749, 42.36719",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-008,Babile FDP 08,Distribution Observation,1,9.167749,42.36719,"9.167749, 42.36719",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-008,Babile FDP 08,Partner Performance Monitoring,1,9.167749,42.36719,"9.167749, 42.36719",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-009,Babile FDP 09,Beneficiary Contact Monitoring,6,9.190736,42.381917,"9.190736, 42.381917",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-009,Babile FDP 09,Food Basket Monitoring,6,9.190736,42.381917,"9.190736, 42.381917",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-009,Babile FDP 09,Warehouse Monitoring,1,9.190736,42.381917,"9.190736, 42.381917",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-009,Babile FDP 09,Distribution Observation,1,9.190736,42.381917,"9.190736, 42.381917",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-009,Babile FDP 09,Partner Performance Monitoring,1,9.190736,42.381917,"9.190736, 42.381917",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-010,Babile FDP 10,Beneficiary Contact Monitoring,6,9.232026,42.298391,"9.232026, 42.298391",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-010,Babile FDP 10,Food Basket Monitoring,6,9.232026,42.298391,"9.232026, 42.298391",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-010,Babile FDP 10,Warehouse Monitoring,1,9.232026,42.298391,"9.232026, 42.298391",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-010,Babile FDP 10,Distribution Observation,1,9.232026,42.298391,"9.232026, 42.298391",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-010,Babile FDP 10,Partner Performance Monitoring,1,9.232026,42.298391,"9.232026, 42.298391",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-011,Babile FDP 11,Beneficiary Contact Monitoring,6,9.207422,42.233306,"9.207422, 42.233306",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-011,Babile FDP 11,Food Basket Monitoring,6,9.207422,42.233306,"9.207422, 42.233306",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-011,Babile FDP 11,Warehouse Monitoring,1,9.207422,42.233306,"9.207422, 42.233306",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-011,Babile FDP 11,Distribution Observation,1,9.207422,42.233306,"9.207422, 42.233306",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-011,Babile FDP 11,Partner Performance Monitoring,1,9.207422,42.233306,"9.207422, 42.233306",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-012,Babile FDP 12,Beneficiary Contact Monitoring,6,9.229121,42.363384,"9.229121, 42.363384",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-012,Babile FDP 12,Food Basket Monitoring,6,9.229121,42.363384,"9.229121, 42.363384",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-012,Babile FDP 12,Warehouse Monitoring,1,9.229121,42.363384,"9.229121, 42.363384",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-012,Babile FDP 12,Distribution Observation,1,9.229121,42.363384,"9.229121, 42.363384",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-012,Babile FDP 12,Partner Performance Monitoring,1,9.229121,42.363384,"9.229121, 42.363384",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-013,Babile FDP 13,Beneficiary Contact Monitoring,6,9.112096,42.218138,"9.112096, 42.218138",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-013,Babile FDP 13,Food Basket Monitoring,6,9.112096,42.218138,"9.112096, 42.218138",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-013,Babile FDP 13,Warehouse Monitoring,1,9.112096,42.218138,"9.112096, 42.218138",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-013,Babile FDP 13,Distribution Observation,1,9.112096,42.218138,"9.112096, 42.218138",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-013,Babile FDP 13,Partner Performance Monitoring,1,9.112096,42.218138,"9.112096, 42.218138",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-014,Babile FDP 14,Beneficiary Contact Monitoring,6,9.280054,42.371402,"9.280054, 42.371402",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-014,Babile FDP 14,Food Basket Monitoring,6,9.280054,42.371402,"9.280054, 42.371402",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-014,Babile FDP 14,Warehouse Monitoring,1,9.280054,42.371402,"9.280054, 42.371402",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-014,Babile FDP 14,Distribution Observation,1,9.280054,42.371402,"9.280054, 42.371402",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Cash,TPM,Babile,REL-BABI-014,Babile FDP 14,Partner Performance Monitoring,1,9.280054,42.371402,"9.280054, 42.371402",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-001,Dollo Ado FDP 01,Beneficiary Contact Monitoring,6,4.227909,42.064859,"4.227909, 42.064859",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-001,Dollo Ado FDP 01,Food Basket Monitoring,6,4.227909,42.064859,"4.227909, 42.064859",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-001,Dollo Ado FDP 01,Warehouse Monitoring,1,4.227909,42.064859,"4.227909, 42.064859",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-001,Dollo Ado FDP 01,Distribution Observation,1,4.227909,42.064859,"4.227909, 42.064859",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-001,Dollo Ado FDP 01,Partner Performance Monitoring,1,4.227909,42.064859,"4.227909, 42.064859",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-002,Dollo Ado FDP 02,Beneficiary Contact Monitoring,6,4.090858,42.05288,"4.090858, 42.05288",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-002,Dollo Ado FDP 02,Food Basket Monitoring,6,4.090858,42.05288,"4.090858, 42.05288",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-002,Dollo Ado FDP 02,Warehouse Monitoring,1,4.090858,42.05288,"4.090858, 42.05288",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-002,Dollo Ado FDP 02,Distribution Observation,1,4.090858,42.05288,"4.090858, 42.05288",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-002,Dollo Ado FDP 02,Partner Performance Monitoring,1,4.090858,42.05288,"4.090858, 42.05288",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-003,Dollo Ado FDP 03,Beneficiary Contact Monitoring,6,4.214312,42.06931,"4.214312, 42.06931",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-003,Dollo Ado FDP 03,Food Basket Monitoring,6,4.214312,42.06931,"4.214312, 42.06931",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-003,Dollo Ado FDP 03,Warehouse Monitoring,1,4.214312,42.06931,"4.214312, 42.06931",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-003,Dollo Ado FDP 03,Distribution Observation,1,4.214312,42.06931,"4.214312, 42.06931",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-003,Dollo Ado FDP 03,Partner Performance Monitoring,1,4.214312,42.06931,"4.214312, 42.06931",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-005,Dollo Ado FDP 05,Beneficiary Contact Monitoring,6,4.081126,42.023142,"4.081126, 42.023142",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-005,Dollo Ado FDP 05,Food Basket Monitoring,6,4.081126,42.023142,"4.081126, 42.023142",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-005,Dollo Ado FDP 05,Warehouse Monitoring,1,4.081126,42.023142,"4.081126, 42.023142",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-005,Dollo Ado FDP 05,Distribution Observation,1,4.081126,42.023142,"4.081126, 42.023142",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-005,Dollo Ado FDP 05,Partner Performance Monitoring,1,4.081126,42.023142,"4.081126, 42.023142",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-006,Dollo Ado FDP 06,Beneficiary Contact Monitoring,6,4.167735,42.055132,"4.167735, 42.055132",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-006,Dollo Ado FDP 06,Food Basket Monitoring,6,4.167735,42.055132,"4.167735, 42.055132",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-006,Dollo Ado FDP 06,Warehouse Monitoring,1,4.167735,42.055132,"4.167735, 42.055132",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-006,Dollo Ado FDP 06,Distribution Observation,1,4.167735,42.055132,"4.167735, 42.055132",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-006,Dollo Ado FDP 06,Partner Performance Monitoring,1,4.167735,42.055132,"4.167735, 42.055132",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-007,Dollo Ado FDP 07,Beneficiary Contact Monitoring,6,4.087281,42.142268,"4.087281, 42.142268",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-007,Dollo Ado FDP 07,Food Basket Monitoring,6,4.087281,42.142268,"4.087281, 42.142268",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-007,Dollo Ado FDP 07,Warehouse Monitoring,1,4.087281,42.142268,"4.087281, 42.142268",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-007,Dollo Ado FDP 07,Distribution Observation,1,4.087281,42.142268,"4.087281, 42.142268",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-007,Dollo Ado FDP 07,Partner Performance Monitoring,1,4.087281,42.142268,"4.087281, 42.142268",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-008,Dollo Ado FDP 08,Beneficiary Contact Monitoring,6,4.168343,42.104926,"4.168343, 42.104926",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-008,Dollo Ado FDP 08,Food Basket Monitoring,6,4.168343,42.104926,"4.168343, 42.104926",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-008,Dollo Ado FDP 08,Warehouse Monitoring,1,4.168343,42.104926,"4.168343, 42.104926",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-008,Dollo Ado FDP 08,Distribution Observation,1,4.168343,42.104926,"4.168343, 42.104926",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-008,Dollo Ado FDP 08,Partner Performance Monitoring,1,4.168343,42.104926,"4.168343, 42.104926",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-010,Dollo Ado FDP 10,Beneficiary Contact Monitoring,6,4.153184,42.164176,"4.153184, 42.164176",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-010,Dollo Ado FDP 10,Food Basket Monitoring,6,4.153184,42.164176,"4.153184, 42.164176",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-010,Dollo Ado FDP 10,Warehouse Monitoring,1,4.153184,42.164176,"4.153184, 42.164176",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-010,Dollo Ado FDP 10,Distribution Observation,1,4.153184,42.164176,"4.153184, 42.164176",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-010,Dollo Ado FDP 10,Partner Performance Monitoring,1,4.153184,42.164176,"4.153184, 42.164176",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-012,Dollo Ado FDP 12,Beneficiary Contact Monitoring,6,4.031852,42.04705,"4.031852, 42.04705",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-012,Dollo Ado FDP 12,Food Basket Monitoring,6,4.031852,42.04705,"4.031852, 42.04705",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-012,Dollo Ado FDP 12,Warehouse Monitoring,1,4.031852,42.04705,"4.031852, 42.04705",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-012,Dollo Ado FDP 12,Distribution Observation,1,4.031852,42.04705,"4.031852, 42.04705",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-012,Dollo Ado FDP 12,Partner Performance Monitoring,1,4.031852,42.04705,"4.031852, 42.04705",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-013,Dollo Ado FDP 13,Beneficiary Contact Monitoring,6,4.199786,42.062019,"4.199786, 42.062019",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-013,Dollo Ado FDP 13,Food Basket Monitoring,6,4.199786,42.062019,"4.199786, 42.062019",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-013,Dollo Ado FDP 13,Warehouse Monitoring,1,4.199786,42.062019,"4.199786, 42.062019",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-013,Dollo Ado FDP 13,Distribution Observation,1,4.199786,42.062019,"4.199786, 42.062019",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-013,Dollo Ado FDP 13,Partner Performance Monitoring,1,4.199786,42.062019,"4.199786, 42.062019",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-014,Dollo Ado FDP 14,Beneficiary Contact Monitoring,6,4.113813,42.095975,"4.113813, 42.095975",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-014,Dollo Ado FDP 14,Food Basket Monitoring,6,4.113813,42.095975,"4.113813, 42.095975",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-014,Dollo Ado FDP 14,Warehouse Monitoring,1,4.113813,42.095975,"4.113813, 42.095975",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-014,Dollo Ado FDP 14,Distribution Observation,1,4.113813,42.095975,"4.113813, 42.095975",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-014,Dollo Ado FDP 14,Partner Performance Monitoring,1,4.113813,42.095975,"4.113813, 42.095975",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-016,Dollo Ado FDP 16,Beneficiary Contact Monitoring,6,4.143021,42.134964,"4.143021, 42.134964",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-016,Dollo Ado FDP 16,Food Basket Monitoring,6,4.143021,42.134964,"4.143021, 42.134964",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-016,Dollo Ado FDP 16,Warehouse Monitoring,1,4.143021,42.134964,"4.143021, 42.134964",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-016,Dollo Ado FDP 16,Distribution Observation,1,4.143021,42.134964,"4.143021, 42.134964",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Dollo Ado,REL-DOLL-016,Dollo Ado FDP 16,Partner Performance Monitoring,1,4.143021,42.134964,"4.143021, 42.134964",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-001,Kelafo FDP 01,Beneficiary Contact Monitoring,6,5.678214,44.191094,"5.678214, 44.191094",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-001,Kelafo FDP 01,Food Basket Monitoring,6,5.678214,44.191094,"5.678214, 44.191094",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-001,Kelafo FDP 01,Warehouse Monitoring,1,5.678214,44.191094,"5.678214, 44.191094",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-001,Kelafo FDP 01,Distribution Observation,1,5.678214,44.191094,"5.678214, 44.191094",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-001,Kelafo FDP 01,Partner Performance Monitoring,1,5.678214,44.191094,"5.678214, 44.191094",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-002,Kelafo FDP 02,Beneficiary Contact Monitoring,6,5.653545,44.145752,"5.653545, 44.145752",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-002,Kelafo FDP 02,Food Basket Monitoring,6,5.653545,44.145752,"5.653545, 44.145752",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-002,Kelafo FDP 02,Warehouse Monitoring,1,5.653545,44.145752,"5.653545, 44.145752",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-002,Kelafo FDP 02,Distribution Observation,1,5.653545,44.145752,"5.653545, 44.145752",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-002,Kelafo FDP 02,Partner Performance Monitoring,1,5.653545,44.145752,"5.653545, 44.145752",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-003,Kelafo FDP 03,Beneficiary Contact Monitoring,6,5.51323,44.168779,"5.51323, 44.168779",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-003,Kelafo FDP 03,Food Basket Monitoring,6,5.51323,44.168779,"5.51323, 44.168779",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-003,Kelafo FDP 03,Warehouse Monitoring,1,5.51323,44.168779,"5.51323, 44.168779",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-003,Kelafo FDP 03,Distribution Observation,1,5.51323,44.168779,"5.51323, 44.168779",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-003,Kelafo FDP 03,Partner Performance Monitoring,1,5.51323,44.168779,"5.51323, 44.168779",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-004,Kelafo FDP 04,Beneficiary Contact Monitoring,6,5.722457,44.133762,"5.722457, 44.133762",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-004,Kelafo FDP 04,Food Basket Monitoring,6,5.722457,44.133762,"5.722457, 44.133762",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-004,Kelafo FDP 04,Warehouse Monitoring,1,5.722457,44.133762,"5.722457, 44.133762",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-004,Kelafo FDP 04,Distribution Observation,1,5.722457,44.133762,"5.722457, 44.133762",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-004,Kelafo FDP 04,Partner Performance Monitoring,1,5.722457,44.133762,"5.722457, 44.133762",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-005,Kelafo FDP 05,Beneficiary Contact Monitoring,6,5.646307,44.110665,"5.646307, 44.110665",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-005,Kelafo FDP 05,Food Basket Monitoring,6,5.646307,44.110665,"5.646307, 44.110665",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-005,Kelafo FDP 05,Warehouse Monitoring,1,5.646307,44.110665,"5.646307, 44.110665",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-005,Kelafo FDP 05,Distribution Observation,1,5.646307,44.110665,"5.646307, 44.110665",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-005,Kelafo FDP 05,Partner Performance Monitoring,1,5.646307,44.110665,"5.646307, 44.110665",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-006,Kelafo FDP 06,Beneficiary Contact Monitoring,6,5.688051,44.196221,"5.688051, 44.196221",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-006,Kelafo FDP 06,Food Basket Monitoring,6,5.688051,44.196221,"5.688051, 44.196221",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-006,Kelafo FDP 06,Warehouse Monitoring,1,5.688051,44.196221,"5.688051, 44.196221",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-006,Kelafo FDP 06,Distribution Observation,1,5.688051,44.196221,"5.688051, 44.196221",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-006,Kelafo FDP 06,Partner Performance Monitoring,1,5.688051,44.196221,"5.688051, 44.196221",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-007,Kelafo FDP 07,Beneficiary Contact Monitoring,6,5.659827,44.140091,"5.659827, 44.140091",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-007,Kelafo FDP 07,Food Basket Monitoring,6,5.659827,44.140091,"5.659827, 44.140091",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-007,Kelafo FDP 07,Warehouse Monitoring,1,5.659827,44.140091,"5.659827, 44.140091",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-007,Kelafo FDP 07,Distribution Observation,1,5.659827,44.140091,"5.659827, 44.140091",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-007,Kelafo FDP 07,Partner Performance Monitoring,1,5.659827,44.140091,"5.659827, 44.140091",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-008,Kelafo FDP 08,Beneficiary Contact Monitoring,6,5.628392,44.217647,"5.628392, 44.217647",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-008,Kelafo FDP 08,Food Basket Monitoring,6,5.628392,44.217647,"5.628392, 44.217647",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-008,Kelafo FDP 08,Warehouse Monitoring,1,5.628392,44.217647,"5.628392, 44.217647",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-008,Kelafo FDP 08,Distribution Observation,1,5.628392,44.217647,"5.628392, 44.217647",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-008,Kelafo FDP 08,Partner Performance Monitoring,1,5.628392,44.217647,"5.628392, 44.217647",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-009,Kelafo FDP 09,Beneficiary Contact Monitoring,6,5.634964,44.154129,"5.634964, 44.154129",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-009,Kelafo FDP 09,Food Basket Monitoring,6,5.634964,44.154129,"5.634964, 44.154129",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-009,Kelafo FDP 09,Warehouse Monitoring,1,5.634964,44.154129,"5.634964, 44.154129",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-009,Kelafo FDP 09,Distribution Observation,1,5.634964,44.154129,"5.634964, 44.154129",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-009,Kelafo FDP 09,Partner Performance Monitoring,1,5.634964,44.154129,"5.634964, 44.154129",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-010,Kelafo FDP 10,Beneficiary Contact Monitoring,6,5.624775,44.011656,"5.624775, 44.011656",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-010,Kelafo FDP 10,Food Basket Monitoring,6,5.624775,44.011656,"5.624775, 44.011656",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-010,Kelafo FDP 10,Warehouse Monitoring,1,5.624775,44.011656,"5.624775, 44.011656",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-010,Kelafo FDP 10,Distribution Observation,1,5.624775,44.011656,"5.624775, 44.011656",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-010,Kelafo FDP 10,Partner Performance Monitoring,1,5.624775,44.011656,"5.624775, 44.011656",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-011,Kelafo FDP 11,Beneficiary Contact Monitoring,6,5.721752,44.140331,"5.721752, 44.140331",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-011,Kelafo FDP 11,Food Basket Monitoring,6,5.721752,44.140331,"5.721752, 44.140331",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-011,Kelafo FDP 11,Warehouse Monitoring,1,5.721752,44.140331,"5.721752, 44.140331",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-011,Kelafo FDP 11,Distribution Observation,1,5.721752,44.140331,"5.721752, 44.140331",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-011,Kelafo FDP 11,Partner Performance Monitoring,1,5.721752,44.140331,"5.721752, 44.140331",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-012,Kelafo FDP 12,Beneficiary Contact Monitoring,6,5.66969,44.065016,"5.66969, 44.065016",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-012,Kelafo FDP 12,Food Basket Monitoring,6,5.66969,44.065016,"5.66969, 44.065016",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-012,Kelafo FDP 12,Warehouse Monitoring,1,5.66969,44.065016,"5.66969, 44.065016",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-012,Kelafo FDP 12,Distribution Observation,1,5.66969,44.065016,"5.66969, 44.065016",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-012,Kelafo FDP 12,Partner Performance Monitoring,1,5.66969,44.065016,"5.66969, 44.065016",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-013,Kelafo FDP 13,Beneficiary Contact Monitoring,6,5.699281,44.164786,"5.699281, 44.164786",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-013,Kelafo FDP 13,Food Basket Monitoring,6,5.699281,44.164786,"5.699281, 44.164786",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-013,Kelafo FDP 13,Warehouse Monitoring,1,5.699281,44.164786,"5.699281, 44.164786",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-013,Kelafo FDP 13,Distribution Observation,1,5.699281,44.164786,"5.699281, 44.164786",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-013,Kelafo FDP 13,Partner Performance Monitoring,1,5.699281,44.164786,"5.699281, 44.164786",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-014,Kelafo FDP 14,Beneficiary Contact Monitoring,6,5.643598,44.174001,"5.643598, 44.174001",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-014,Kelafo FDP 14,Food Basket Monitoring,6,5.643598,44.174001,"5.643598, 44.174001",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-014,Kelafo FDP 14,Warehouse Monitoring,1,5.643598,44.174001,"5.643598, 44.174001",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-014,Kelafo FDP 14,Distribution Observation,1,5.643598,44.174001,"5.643598, 44.174001",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-014,Kelafo FDP 14,Partner Performance Monitoring,1,5.643598,44.174001,"5.643598, 44.174001",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-015,Kelafo FDP 15,Beneficiary Contact Monitoring,6,5.595896,44.228127,"5.595896, 44.228127",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-015,Kelafo FDP 15,Food Basket Monitoring,6,5.595896,44.228127,"5.595896, 44.228127",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-015,Kelafo FDP 15,Warehouse Monitoring,1,5.595896,44.228127,"5.595896, 44.228127",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-015,Kelafo FDP 15,Distribution Observation,1,5.595896,44.228127,"5.595896, 44.228127",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-015,Kelafo FDP 15,Partner Performance Monitoring,1,5.595896,44.228127,"5.595896, 44.228127",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-016,Kelafo FDP 16,Beneficiary Contact Monitoring,6,5.727549,44.128463,"5.727549, 44.128463",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-016,Kelafo FDP 16,Food Basket Monitoring,6,5.727549,44.128463,"5.727549, 44.128463",3,3,0.5,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-016,Kelafo FDP 16,Warehouse Monitoring,1,5.727549,44.128463,"5.727549, 44.128463",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-016,Kelafo FDP 16,Distribution Observation,1,5.727549,44.128463,"5.727549, 44.128463",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,WFP,Kelafo,REL-KELA-016,Kelafo FDP 16,Partner Performance Monitoring,1,5.727549,44.128463,"5.727549, 44.128463",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-017,Kelafo FDP 17,Beneficiary Contact Monitoring,6,5.62664,44.172771,"5.62664, 44.172771",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-017,Kelafo FDP 17,Food Basket Monitoring,6,5.62664,44.172771,"5.62664, 44.172771",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-017,Kelafo FDP 17,Warehouse Monitoring,1,5.62664,44.172771,"5.62664, 44.172771",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-017,Kelafo FDP 17,Distribution Observation,1,5.62664,44.172771,"5.62664, 44.172771",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-017,Kelafo FDP 17,Partner Performance Monitoring,1,5.62664,44.172771,"5.62664, 44.172771",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-018,Kelafo FDP 18,Beneficiary Contact Monitoring,6,5.695158,44.075023,"5.695158, 44.075023",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-018,Kelafo FDP 18,Food Basket Monitoring,6,5.695158,44.075023,"5.695158, 44.075023",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-018,Kelafo FDP 18,Warehouse Monitoring,1,5.695158,44.075023,"5.695158, 44.075023",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-018,Kelafo FDP 18,Distribution Observation,1,5.695158,44.075023,"5.695158, 44.075023",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-018,Kelafo FDP 18,Partner Performance Monitoring,1,5.695158,44.075023,"5.695158, 44.075023",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-019,Kelafo FDP 19,Beneficiary Contact Monitoring,6,5.620861,44.199756,"5.620861, 44.199756",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-019,Kelafo FDP 19,Food Basket Monitoring,6,5.620861,44.199756,"5.620861, 44.199756",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-019,Kelafo FDP 19,Warehouse Monitoring,1,5.620861,44.199756,"5.620861, 44.199756",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-019,Kelafo FDP 19,Distribution Observation,1,5.620861,44.199756,"5.620861, 44.199756",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-019,Kelafo FDP 19,Partner Performance Monitoring,1,5.620861,44.199756,"5.620861, 44.199756",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-020,Kelafo FDP 20,Beneficiary Contact Monitoring,6,5.57562,44.111153,"5.57562, 44.111153",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-020,Kelafo FDP 20,Food Basket Monitoring,6,5.57562,44.111153,"5.57562, 44.111153",6,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-020,Kelafo FDP 20,Warehouse Monitoring,1,5.57562,44.111153,"5.57562, 44.111153",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-020,Kelafo FDP 20,Distribution Observation,1,5.57562,44.111153,"5.57562, 44.111153",1,0,1.0,Complete,Visited
+May 2025,Activity 1 Relief,Food,TPM,Kelafo,REL-KELA-020,Kelafo FDP 20,Partner Performance Monitoring,1,5.57562,44.111153,"5.57562, 44.111153",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-001,Duhun FDP 01,TSFP Centre-Level Monitoring,1,7.920234,42.569055,"7.920234, 42.569055",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-001,Duhun FDP 01,Beneficiary Contact Monitoring,2,7.920234,42.569055,"7.920234, 42.569055",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-001,Duhun FDP 01,TSFP Food Basket / Ration Verification,2,7.920234,42.569055,"7.920234, 42.569055",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-001,Duhun FDP 01,Distribution Observation,1,7.920234,42.569055,"7.920234, 42.569055",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-001,Duhun FDP 01,Warehouse / Store Monitoring,1,7.920234,42.569055,"7.920234, 42.569055",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-001,Duhun FDP 01,Partner Performance Monitoring,1,7.920234,42.569055,"7.920234, 42.569055",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-002,Duhun FDP 02,TSFP Centre-Level Monitoring,1,7.843273,42.562054,"7.843273, 42.562054",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-002,Duhun FDP 02,Beneficiary Contact Monitoring,2,7.843273,42.562054,"7.843273, 42.562054",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-002,Duhun FDP 02,TSFP Food Basket / Ration Verification,2,7.843273,42.562054,"7.843273, 42.562054",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-002,Duhun FDP 02,Distribution Observation,1,7.843273,42.562054,"7.843273, 42.562054",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-002,Duhun FDP 02,Warehouse / Store Monitoring,1,7.843273,42.562054,"7.843273, 42.562054",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-002,Duhun FDP 02,Partner Performance Monitoring,1,7.843273,42.562054,"7.843273, 42.562054",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-003,Duhun FDP 03,TSFP Centre-Level Monitoring,1,7.857891,42.628916,"7.857891, 42.628916",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-003,Duhun FDP 03,Beneficiary Contact Monitoring,2,7.857891,42.628916,"7.857891, 42.628916",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-003,Duhun FDP 03,TSFP Food Basket / Ration Verification,2,7.857891,42.628916,"7.857891, 42.628916",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-003,Duhun FDP 03,Distribution Observation,1,7.857891,42.628916,"7.857891, 42.628916",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-003,Duhun FDP 03,Warehouse / Store Monitoring,1,7.857891,42.628916,"7.857891, 42.628916",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-003,Duhun FDP 03,Partner Performance Monitoring,1,7.857891,42.628916,"7.857891, 42.628916",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-004,Duhun FDP 04,TSFP Centre-Level Monitoring,1,7.908045,42.611341,"7.908045, 42.611341",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-004,Duhun FDP 04,Beneficiary Contact Monitoring,2,7.908045,42.611341,"7.908045, 42.611341",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-004,Duhun FDP 04,TSFP Food Basket / Ration Verification,2,7.908045,42.611341,"7.908045, 42.611341",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-004,Duhun FDP 04,Distribution Observation,1,7.908045,42.611341,"7.908045, 42.611341",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-004,Duhun FDP 04,Warehouse / Store Monitoring,1,7.908045,42.611341,"7.908045, 42.611341",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-004,Duhun FDP 04,Partner Performance Monitoring,1,7.908045,42.611341,"7.908045, 42.611341",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-005,Duhun FDP 05,TSFP Centre-Level Monitoring,1,7.949055,42.539307,"7.949055, 42.539307",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-005,Duhun FDP 05,Beneficiary Contact Monitoring,2,7.949055,42.539307,"7.949055, 42.539307",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-005,Duhun FDP 05,TSFP Food Basket / Ration Verification,2,7.949055,42.539307,"7.949055, 42.539307",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-005,Duhun FDP 05,Distribution Observation,1,7.949055,42.539307,"7.949055, 42.539307",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-005,Duhun FDP 05,Warehouse / Store Monitoring,1,7.949055,42.539307,"7.949055, 42.539307",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-005,Duhun FDP 05,Partner Performance Monitoring,1,7.949055,42.539307,"7.949055, 42.539307",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-006,Duhun FDP 06,TSFP Centre-Level Monitoring,1,7.80368,42.48685,"7.80368, 42.48685",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-006,Duhun FDP 06,Beneficiary Contact Monitoring,2,7.80368,42.48685,"7.80368, 42.48685",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-006,Duhun FDP 06,TSFP Food Basket / Ration Verification,2,7.80368,42.48685,"7.80368, 42.48685",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-006,Duhun FDP 06,Distribution Observation,1,7.80368,42.48685,"7.80368, 42.48685",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-006,Duhun FDP 06,Warehouse / Store Monitoring,1,7.80368,42.48685,"7.80368, 42.48685",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-006,Duhun FDP 06,Partner Performance Monitoring,1,7.80368,42.48685,"7.80368, 42.48685",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-007,Duhun FDP 07,TSFP Centre-Level Monitoring,1,7.804265,42.512999,"7.804265, 42.512999",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-007,Duhun FDP 07,Beneficiary Contact Monitoring,2,7.804265,42.512999,"7.804265, 42.512999",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-007,Duhun FDP 07,TSFP Food Basket / Ration Verification,2,7.804265,42.512999,"7.804265, 42.512999",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-007,Duhun FDP 07,Distribution Observation,1,7.804265,42.512999,"7.804265, 42.512999",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-007,Duhun FDP 07,Warehouse / Store Monitoring,1,7.804265,42.512999,"7.804265, 42.512999",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-007,Duhun FDP 07,Partner Performance Monitoring,1,7.804265,42.512999,"7.804265, 42.512999",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-008,Duhun FDP 08,TSFP Centre-Level Monitoring,1,7.886856,42.486812,"7.886856, 42.486812",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-008,Duhun FDP 08,Beneficiary Contact Monitoring,2,7.886856,42.486812,"7.886856, 42.486812",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-008,Duhun FDP 08,TSFP Food Basket / Ration Verification,2,7.886856,42.486812,"7.886856, 42.486812",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-008,Duhun FDP 08,Distribution Observation,1,7.886856,42.486812,"7.886856, 42.486812",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-008,Duhun FDP 08,Warehouse / Store Monitoring,1,7.886856,42.486812,"7.886856, 42.486812",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-008,Duhun FDP 08,Partner Performance Monitoring,1,7.886856,42.486812,"7.886856, 42.486812",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-009,Duhun FDP 09,TSFP Centre-Level Monitoring,1,7.835265,42.497664,"7.835265, 42.497664",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-009,Duhun FDP 09,Beneficiary Contact Monitoring,2,7.835265,42.497664,"7.835265, 42.497664",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-009,Duhun FDP 09,TSFP Food Basket / Ration Verification,2,7.835265,42.497664,"7.835265, 42.497664",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-009,Duhun FDP 09,Distribution Observation,1,7.835265,42.497664,"7.835265, 42.497664",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-009,Duhun FDP 09,Warehouse / Store Monitoring,1,7.835265,42.497664,"7.835265, 42.497664",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-009,Duhun FDP 09,Partner Performance Monitoring,1,7.835265,42.497664,"7.835265, 42.497664",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-010,Duhun FDP 10,TSFP Centre-Level Monitoring,1,7.763646,42.604229,"7.763646, 42.604229",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-010,Duhun FDP 10,Beneficiary Contact Monitoring,2,7.763646,42.604229,"7.763646, 42.604229",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-010,Duhun FDP 10,TSFP Food Basket / Ration Verification,2,7.763646,42.604229,"7.763646, 42.604229",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-010,Duhun FDP 10,Distribution Observation,1,7.763646,42.604229,"7.763646, 42.604229",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-010,Duhun FDP 10,Warehouse / Store Monitoring,1,7.763646,42.604229,"7.763646, 42.604229",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Duhun,NUT-DUHU-010,Duhun FDP 10,Partner Performance Monitoring,1,7.763646,42.604229,"7.763646, 42.604229",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-001,Fik FDP 01,TSFP Centre-Level Monitoring,1,8.127419,42.219694,"8.127419, 42.219694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-001,Fik FDP 01,Beneficiary Contact Monitoring,2,8.127419,42.219694,"8.127419, 42.219694",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-001,Fik FDP 01,TSFP Food Basket / Ration Verification,2,8.127419,42.219694,"8.127419, 42.219694",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-001,Fik FDP 01,Distribution Observation,1,8.127419,42.219694,"8.127419, 42.219694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-001,Fik FDP 01,Warehouse / Store Monitoring,1,8.127419,42.219694,"8.127419, 42.219694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-001,Fik FDP 01,Partner Performance Monitoring,1,8.127419,42.219694,"8.127419, 42.219694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-002,Fik FDP 02,TSFP Centre-Level Monitoring,1,8.102049,42.272763,"8.102049, 42.272763",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-002,Fik FDP 02,Beneficiary Contact Monitoring,2,8.102049,42.272763,"8.102049, 42.272763",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-002,Fik FDP 02,TSFP Food Basket / Ration Verification,2,8.102049,42.272763,"8.102049, 42.272763",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-002,Fik FDP 02,Distribution Observation,1,8.102049,42.272763,"8.102049, 42.272763",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-002,Fik FDP 02,Warehouse / Store Monitoring,1,8.102049,42.272763,"8.102049, 42.272763",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-002,Fik FDP 02,Partner Performance Monitoring,1,8.102049,42.272763,"8.102049, 42.272763",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-003,Fik FDP 03,TSFP Centre-Level Monitoring,1,8.171898,42.209424,"8.171898, 42.209424",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-003,Fik FDP 03,Beneficiary Contact Monitoring,2,8.171898,42.209424,"8.171898, 42.209424",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-003,Fik FDP 03,TSFP Food Basket / Ration Verification,2,8.171898,42.209424,"8.171898, 42.209424",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-003,Fik FDP 03,Distribution Observation,1,8.171898,42.209424,"8.171898, 42.209424",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-003,Fik FDP 03,Warehouse / Store Monitoring,1,8.171898,42.209424,"8.171898, 42.209424",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-003,Fik FDP 03,Partner Performance Monitoring,1,8.171898,42.209424,"8.171898, 42.209424",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-004,Fik FDP 04,TSFP Centre-Level Monitoring,1,8.176966,42.299562,"8.176966, 42.299562",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-004,Fik FDP 04,Beneficiary Contact Monitoring,2,8.176966,42.299562,"8.176966, 42.299562",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-004,Fik FDP 04,TSFP Food Basket / Ration Verification,2,8.176966,42.299562,"8.176966, 42.299562",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-004,Fik FDP 04,Distribution Observation,1,8.176966,42.299562,"8.176966, 42.299562",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-004,Fik FDP 04,Warehouse / Store Monitoring,1,8.176966,42.299562,"8.176966, 42.299562",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-004,Fik FDP 04,Partner Performance Monitoring,1,8.176966,42.299562,"8.176966, 42.299562",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-005,Fik FDP 05,TSFP Centre-Level Monitoring,1,8.081079,42.319443,"8.081079, 42.319443",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-005,Fik FDP 05,Beneficiary Contact Monitoring,2,8.081079,42.319443,"8.081079, 42.319443",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-005,Fik FDP 05,TSFP Food Basket / Ration Verification,2,8.081079,42.319443,"8.081079, 42.319443",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-005,Fik FDP 05,Distribution Observation,1,8.081079,42.319443,"8.081079, 42.319443",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-005,Fik FDP 05,Warehouse / Store Monitoring,1,8.081079,42.319443,"8.081079, 42.319443",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-005,Fik FDP 05,Partner Performance Monitoring,1,8.081079,42.319443,"8.081079, 42.319443",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Fik,NUT-FIK-006,Fik FDP 06,TSFP Centre-Level Monitoring,1,8.100331,42.332512,"8.100331, 42.332512",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Fik,NUT-FIK-006,Fik FDP 06,Beneficiary Contact Monitoring,2,8.100331,42.332512,"8.100331, 42.332512",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Fik,NUT-FIK-006,Fik FDP 06,TSFP Food Basket / Ration Verification,2,8.100331,42.332512,"8.100331, 42.332512",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Fik,NUT-FIK-006,Fik FDP 06,Distribution Observation,1,8.100331,42.332512,"8.100331, 42.332512",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Fik,NUT-FIK-006,Fik FDP 06,Warehouse / Store Monitoring,1,8.100331,42.332512,"8.100331, 42.332512",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Fik,NUT-FIK-006,Fik FDP 06,Partner Performance Monitoring,1,8.100331,42.332512,"8.100331, 42.332512",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-007,Fik FDP 07,TSFP Centre-Level Monitoring,1,8.123494,42.280174,"8.123494, 42.280174",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-007,Fik FDP 07,Beneficiary Contact Monitoring,2,8.123494,42.280174,"8.123494, 42.280174",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-007,Fik FDP 07,TSFP Food Basket / Ration Verification,2,8.123494,42.280174,"8.123494, 42.280174",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-007,Fik FDP 07,Distribution Observation,1,8.123494,42.280174,"8.123494, 42.280174",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-007,Fik FDP 07,Warehouse / Store Monitoring,1,8.123494,42.280174,"8.123494, 42.280174",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-007,Fik FDP 07,Partner Performance Monitoring,1,8.123494,42.280174,"8.123494, 42.280174",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-008,Fik FDP 08,TSFP Centre-Level Monitoring,1,8.071225,42.348989,"8.071225, 42.348989",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-008,Fik FDP 08,Beneficiary Contact Monitoring,2,8.071225,42.348989,"8.071225, 42.348989",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-008,Fik FDP 08,TSFP Food Basket / Ration Verification,2,8.071225,42.348989,"8.071225, 42.348989",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-008,Fik FDP 08,Distribution Observation,1,8.071225,42.348989,"8.071225, 42.348989",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-008,Fik FDP 08,Warehouse / Store Monitoring,1,8.071225,42.348989,"8.071225, 42.348989",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-008,Fik FDP 08,Partner Performance Monitoring,1,8.071225,42.348989,"8.071225, 42.348989",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-009,Fik FDP 09,TSFP Centre-Level Monitoring,1,8.142939,42.294909,"8.142939, 42.294909",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-009,Fik FDP 09,Beneficiary Contact Monitoring,2,8.142939,42.294909,"8.142939, 42.294909",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-009,Fik FDP 09,TSFP Food Basket / Ration Verification,2,8.142939,42.294909,"8.142939, 42.294909",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-009,Fik FDP 09,Distribution Observation,1,8.142939,42.294909,"8.142939, 42.294909",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-009,Fik FDP 09,Warehouse / Store Monitoring,1,8.142939,42.294909,"8.142939, 42.294909",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-009,Fik FDP 09,Partner Performance Monitoring,1,8.142939,42.294909,"8.142939, 42.294909",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-010,Fik FDP 10,TSFP Centre-Level Monitoring,1,8.101892,42.33266,"8.101892, 42.33266",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-010,Fik FDP 10,Beneficiary Contact Monitoring,2,8.101892,42.33266,"8.101892, 42.33266",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-010,Fik FDP 10,TSFP Food Basket / Ration Verification,2,8.101892,42.33266,"8.101892, 42.33266",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-010,Fik FDP 10,Distribution Observation,1,8.101892,42.33266,"8.101892, 42.33266",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-010,Fik FDP 10,Warehouse / Store Monitoring,1,8.101892,42.33266,"8.101892, 42.33266",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-010,Fik FDP 10,Partner Performance Monitoring,1,8.101892,42.33266,"8.101892, 42.33266",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-011,Fik FDP 11,TSFP Centre-Level Monitoring,1,8.087426,42.241099,"8.087426, 42.241099",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-011,Fik FDP 11,Beneficiary Contact Monitoring,2,8.087426,42.241099,"8.087426, 42.241099",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-011,Fik FDP 11,TSFP Food Basket / Ration Verification,2,8.087426,42.241099,"8.087426, 42.241099",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-011,Fik FDP 11,Distribution Observation,1,8.087426,42.241099,"8.087426, 42.241099",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-011,Fik FDP 11,Warehouse / Store Monitoring,1,8.087426,42.241099,"8.087426, 42.241099",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-011,Fik FDP 11,Partner Performance Monitoring,1,8.087426,42.241099,"8.087426, 42.241099",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-012,Fik FDP 12,TSFP Centre-Level Monitoring,1,8.095518,42.240745,"8.095518, 42.240745",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-012,Fik FDP 12,Beneficiary Contact Monitoring,2,8.095518,42.240745,"8.095518, 42.240745",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-012,Fik FDP 12,TSFP Food Basket / Ration Verification,2,8.095518,42.240745,"8.095518, 42.240745",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-012,Fik FDP 12,Distribution Observation,1,8.095518,42.240745,"8.095518, 42.240745",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-012,Fik FDP 12,Warehouse / Store Monitoring,1,8.095518,42.240745,"8.095518, 42.240745",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Fik,NUT-FIK-012,Fik FDP 12,Partner Performance Monitoring,1,8.095518,42.240745,"8.095518, 42.240745",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-001,Harorays FDP 01,TSFP Centre-Level Monitoring,1,9.230819,42.961924,"9.230819, 42.961924",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-001,Harorays FDP 01,Beneficiary Contact Monitoring,2,9.230819,42.961924,"9.230819, 42.961924",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-001,Harorays FDP 01,TSFP Food Basket / Ration Verification,2,9.230819,42.961924,"9.230819, 42.961924",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-001,Harorays FDP 01,Distribution Observation,1,9.230819,42.961924,"9.230819, 42.961924",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-001,Harorays FDP 01,Warehouse / Store Monitoring,1,9.230819,42.961924,"9.230819, 42.961924",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-001,Harorays FDP 01,Partner Performance Monitoring,1,9.230819,42.961924,"9.230819, 42.961924",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-002,Harorays FDP 02,TSFP Centre-Level Monitoring,1,9.163677,43.115415,"9.163677, 43.115415",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-002,Harorays FDP 02,Beneficiary Contact Monitoring,2,9.163677,43.115415,"9.163677, 43.115415",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-002,Harorays FDP 02,TSFP Food Basket / Ration Verification,2,9.163677,43.115415,"9.163677, 43.115415",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-002,Harorays FDP 02,Distribution Observation,1,9.163677,43.115415,"9.163677, 43.115415",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-002,Harorays FDP 02,Warehouse / Store Monitoring,1,9.163677,43.115415,"9.163677, 43.115415",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-002,Harorays FDP 02,Partner Performance Monitoring,1,9.163677,43.115415,"9.163677, 43.115415",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-003,Harorays FDP 03,TSFP Centre-Level Monitoring,1,9.161668,43.10106,"9.161668, 43.10106",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-003,Harorays FDP 03,Beneficiary Contact Monitoring,2,9.161668,43.10106,"9.161668, 43.10106",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-003,Harorays FDP 03,TSFP Food Basket / Ration Verification,2,9.161668,43.10106,"9.161668, 43.10106",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-003,Harorays FDP 03,Distribution Observation,1,9.161668,43.10106,"9.161668, 43.10106",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-003,Harorays FDP 03,Warehouse / Store Monitoring,1,9.161668,43.10106,"9.161668, 43.10106",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-003,Harorays FDP 03,Partner Performance Monitoring,1,9.161668,43.10106,"9.161668, 43.10106",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-004,Harorays FDP 04,TSFP Centre-Level Monitoring,1,9.140277,43.166694,"9.140277, 43.166694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-004,Harorays FDP 04,Beneficiary Contact Monitoring,2,9.140277,43.166694,"9.140277, 43.166694",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-004,Harorays FDP 04,TSFP Food Basket / Ration Verification,2,9.140277,43.166694,"9.140277, 43.166694",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-004,Harorays FDP 04,Distribution Observation,1,9.140277,43.166694,"9.140277, 43.166694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-004,Harorays FDP 04,Warehouse / Store Monitoring,1,9.140277,43.166694,"9.140277, 43.166694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-004,Harorays FDP 04,Partner Performance Monitoring,1,9.140277,43.166694,"9.140277, 43.166694",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-005,Harorays FDP 05,TSFP Centre-Level Monitoring,1,9.141961,43.071755,"9.141961, 43.071755",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-005,Harorays FDP 05,Beneficiary Contact Monitoring,2,9.141961,43.071755,"9.141961, 43.071755",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-005,Harorays FDP 05,TSFP Food Basket / Ration Verification,2,9.141961,43.071755,"9.141961, 43.071755",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-005,Harorays FDP 05,Distribution Observation,1,9.141961,43.071755,"9.141961, 43.071755",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-005,Harorays FDP 05,Warehouse / Store Monitoring,1,9.141961,43.071755,"9.141961, 43.071755",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-005,Harorays FDP 05,Partner Performance Monitoring,1,9.141961,43.071755,"9.141961, 43.071755",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-006,Harorays FDP 06,TSFP Centre-Level Monitoring,1,9.159545,42.992832,"9.159545, 42.992832",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-006,Harorays FDP 06,Beneficiary Contact Monitoring,2,9.159545,42.992832,"9.159545, 42.992832",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-006,Harorays FDP 06,TSFP Food Basket / Ration Verification,2,9.159545,42.992832,"9.159545, 42.992832",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-006,Harorays FDP 06,Distribution Observation,1,9.159545,42.992832,"9.159545, 42.992832",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-006,Harorays FDP 06,Warehouse / Store Monitoring,1,9.159545,42.992832,"9.159545, 42.992832",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-006,Harorays FDP 06,Partner Performance Monitoring,1,9.159545,42.992832,"9.159545, 42.992832",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-007,Harorays FDP 07,TSFP Centre-Level Monitoring,1,9.207051,43.105204,"9.207051, 43.105204",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-007,Harorays FDP 07,Beneficiary Contact Monitoring,2,9.207051,43.105204,"9.207051, 43.105204",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-007,Harorays FDP 07,TSFP Food Basket / Ration Verification,2,9.207051,43.105204,"9.207051, 43.105204",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-007,Harorays FDP 07,Distribution Observation,1,9.207051,43.105204,"9.207051, 43.105204",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-007,Harorays FDP 07,Warehouse / Store Monitoring,1,9.207051,43.105204,"9.207051, 43.105204",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Harorays,NUT-HARO-007,Harorays FDP 07,Partner Performance Monitoring,1,9.207051,43.105204,"9.207051, 43.105204",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-008,Harorays FDP 08,TSFP Centre-Level Monitoring,1,9.165393,42.992767,"9.165393, 42.992767",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-008,Harorays FDP 08,Beneficiary Contact Monitoring,2,9.165393,42.992767,"9.165393, 42.992767",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-008,Harorays FDP 08,TSFP Food Basket / Ration Verification,2,9.165393,42.992767,"9.165393, 42.992767",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-008,Harorays FDP 08,Distribution Observation,1,9.165393,42.992767,"9.165393, 42.992767",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-008,Harorays FDP 08,Warehouse / Store Monitoring,1,9.165393,42.992767,"9.165393, 42.992767",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,TPM,Harorays,NUT-HARO-008,Harorays FDP 08,Partner Performance Monitoring,1,9.165393,42.992767,"9.165393, 42.992767",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-001,Rhamu FDP 01,TSFP Centre-Level Monitoring,1,6.290963,44.601673,"6.290963, 44.601673",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-001,Rhamu FDP 01,Beneficiary Contact Monitoring,2,6.290963,44.601673,"6.290963, 44.601673",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-001,Rhamu FDP 01,TSFP Food Basket / Ration Verification,2,6.290963,44.601673,"6.290963, 44.601673",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-001,Rhamu FDP 01,Distribution Observation,1,6.290963,44.601673,"6.290963, 44.601673",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-001,Rhamu FDP 01,Warehouse / Store Monitoring,1,6.290963,44.601673,"6.290963, 44.601673",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-001,Rhamu FDP 01,Partner Performance Monitoring,1,6.290963,44.601673,"6.290963, 44.601673",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-002,Rhamu FDP 02,TSFP Centre-Level Monitoring,1,6.287258,44.566381,"6.287258, 44.566381",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-002,Rhamu FDP 02,Beneficiary Contact Monitoring,2,6.287258,44.566381,"6.287258, 44.566381",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-002,Rhamu FDP 02,TSFP Food Basket / Ration Verification,2,6.287258,44.566381,"6.287258, 44.566381",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-002,Rhamu FDP 02,Distribution Observation,1,6.287258,44.566381,"6.287258, 44.566381",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-002,Rhamu FDP 02,Warehouse / Store Monitoring,1,6.287258,44.566381,"6.287258, 44.566381",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-002,Rhamu FDP 02,Partner Performance Monitoring,1,6.287258,44.566381,"6.287258, 44.566381",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-003,Rhamu FDP 03,TSFP Centre-Level Monitoring,1,6.278735,44.58126,"6.278735, 44.58126",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-003,Rhamu FDP 03,Beneficiary Contact Monitoring,2,6.278735,44.58126,"6.278735, 44.58126",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-003,Rhamu FDP 03,TSFP Food Basket / Ration Verification,2,6.278735,44.58126,"6.278735, 44.58126",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-003,Rhamu FDP 03,Distribution Observation,1,6.278735,44.58126,"6.278735, 44.58126",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-003,Rhamu FDP 03,Warehouse / Store Monitoring,1,6.278735,44.58126,"6.278735, 44.58126",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-003,Rhamu FDP 03,Partner Performance Monitoring,1,6.278735,44.58126,"6.278735, 44.58126",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-004,Rhamu FDP 04,TSFP Centre-Level Monitoring,1,6.26081,44.597794,"6.26081, 44.597794",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-004,Rhamu FDP 04,Beneficiary Contact Monitoring,2,6.26081,44.597794,"6.26081, 44.597794",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-004,Rhamu FDP 04,TSFP Food Basket / Ration Verification,2,6.26081,44.597794,"6.26081, 44.597794",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-004,Rhamu FDP 04,Distribution Observation,1,6.26081,44.597794,"6.26081, 44.597794",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-004,Rhamu FDP 04,Warehouse / Store Monitoring,1,6.26081,44.597794,"6.26081, 44.597794",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-004,Rhamu FDP 04,Partner Performance Monitoring,1,6.26081,44.597794,"6.26081, 44.597794",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-005,Rhamu FDP 05,TSFP Centre-Level Monitoring,1,6.247272,44.561648,"6.247272, 44.561648",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-005,Rhamu FDP 05,Beneficiary Contact Monitoring,2,6.247272,44.561648,"6.247272, 44.561648",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-005,Rhamu FDP 05,TSFP Food Basket / Ration Verification,2,6.247272,44.561648,"6.247272, 44.561648",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-005,Rhamu FDP 05,Distribution Observation,1,6.247272,44.561648,"6.247272, 44.561648",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-005,Rhamu FDP 05,Warehouse / Store Monitoring,1,6.247272,44.561648,"6.247272, 44.561648",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-005,Rhamu FDP 05,Partner Performance Monitoring,1,6.247272,44.561648,"6.247272, 44.561648",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-006,Rhamu FDP 06,TSFP Centre-Level Monitoring,1,6.236031,44.621788,"6.236031, 44.621788",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-006,Rhamu FDP 06,Beneficiary Contact Monitoring,2,6.236031,44.621788,"6.236031, 44.621788",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-006,Rhamu FDP 06,TSFP Food Basket / Ration Verification,2,6.236031,44.621788,"6.236031, 44.621788",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-006,Rhamu FDP 06,Distribution Observation,1,6.236031,44.621788,"6.236031, 44.621788",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-006,Rhamu FDP 06,Warehouse / Store Monitoring,1,6.236031,44.621788,"6.236031, 44.621788",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-006,Rhamu FDP 06,Partner Performance Monitoring,1,6.236031,44.621788,"6.236031, 44.621788",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-007,Rhamu FDP 07,TSFP Centre-Level Monitoring,1,6.350037,44.659559,"6.350037, 44.659559",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-007,Rhamu FDP 07,Beneficiary Contact Monitoring,2,6.350037,44.659559,"6.350037, 44.659559",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-007,Rhamu FDP 07,TSFP Food Basket / Ration Verification,2,6.350037,44.659559,"6.350037, 44.659559",1,1,0.5,Moderate Gap,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-007,Rhamu FDP 07,Distribution Observation,1,6.350037,44.659559,"6.350037, 44.659559",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-007,Rhamu FDP 07,Warehouse / Store Monitoring,1,6.350037,44.659559,"6.350037, 44.659559",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-007,Rhamu FDP 07,Partner Performance Monitoring,1,6.350037,44.659559,"6.350037, 44.659559",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-008,Rhamu FDP 08,TSFP Centre-Level Monitoring,1,6.279273,44.572934,"6.279273, 44.572934",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-008,Rhamu FDP 08,Beneficiary Contact Monitoring,2,6.279273,44.572934,"6.279273, 44.572934",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-008,Rhamu FDP 08,TSFP Food Basket / Ration Verification,2,6.279273,44.572934,"6.279273, 44.572934",2,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-008,Rhamu FDP 08,Distribution Observation,1,6.279273,44.572934,"6.279273, 44.572934",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-008,Rhamu FDP 08,Warehouse / Store Monitoring,1,6.279273,44.572934,"6.279273, 44.572934",1,0,1.0,Complete,Visited
+May 2025,Activity 2 Nutrition,TSFP,WFP,Rhamu,NUT-RHAM-008,Rhamu FDP 08,Partner Performance Monitoring,1,6.279273,44.572934,"6.279273, 44.572934",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-001,Aw-Bare Camp Site 01,Beneficiary Contact Monitoring,6,9.693736,43.013279,"9.693736, 43.013279",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-001,Aw-Bare Camp Site 01,Food Basket Monitoring,6,9.693736,43.013279,"9.693736, 43.013279",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-001,Aw-Bare Camp Site 01,Warehouse Monitoring,1,9.693736,43.013279,"9.693736, 43.013279",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-001,Aw-Bare Camp Site 01,Distribution Observation,1,9.693736,43.013279,"9.693736, 43.013279",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-001,Aw-Bare Camp Site 01,Partner Performance Monitoring,1,9.693736,43.013279,"9.693736, 43.013279",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-002,Aw-Bare Camp Site 02,Beneficiary Contact Monitoring,6,9.731421,43.01179,"9.731421, 43.01179",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-002,Aw-Bare Camp Site 02,Food Basket Monitoring,6,9.731421,43.01179,"9.731421, 43.01179",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-002,Aw-Bare Camp Site 02,Warehouse Monitoring,1,9.731421,43.01179,"9.731421, 43.01179",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-002,Aw-Bare Camp Site 02,Distribution Observation,1,9.731421,43.01179,"9.731421, 43.01179",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-002,Aw-Bare Camp Site 02,Partner Performance Monitoring,1,9.731421,43.01179,"9.731421, 43.01179",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-003,Aw-Bare Camp Site 03,Beneficiary Contact Monitoring,6,9.776148,43.128456,"9.776148, 43.128456",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-003,Aw-Bare Camp Site 03,Food Basket Monitoring,6,9.776148,43.128456,"9.776148, 43.128456",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-003,Aw-Bare Camp Site 03,Warehouse Monitoring,1,9.776148,43.128456,"9.776148, 43.128456",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-003,Aw-Bare Camp Site 03,Distribution Observation,1,9.776148,43.128456,"9.776148, 43.128456",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-003,Aw-Bare Camp Site 03,Partner Performance Monitoring,1,9.776148,43.128456,"9.776148, 43.128456",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-004,Aw-Bare Camp Site 04,Beneficiary Contact Monitoring,6,9.782744,43.027137,"9.782744, 43.027137",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-004,Aw-Bare Camp Site 04,Food Basket Monitoring,6,9.782744,43.027137,"9.782744, 43.027137",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-004,Aw-Bare Camp Site 04,Warehouse Monitoring,1,9.782744,43.027137,"9.782744, 43.027137",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-004,Aw-Bare Camp Site 04,Distribution Observation,1,9.782744,43.027137,"9.782744, 43.027137",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-004,Aw-Bare Camp Site 04,Partner Performance Monitoring,1,9.782744,43.027137,"9.782744, 43.027137",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-005,Aw-Bare Camp Site 05,Beneficiary Contact Monitoring,6,9.832203,43.042882,"9.832203, 43.042882",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-005,Aw-Bare Camp Site 05,Food Basket Monitoring,6,9.832203,43.042882,"9.832203, 43.042882",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-005,Aw-Bare Camp Site 05,Warehouse Monitoring,1,9.832203,43.042882,"9.832203, 43.042882",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-005,Aw-Bare Camp Site 05,Distribution Observation,1,9.832203,43.042882,"9.832203, 43.042882",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Aw-Bare Camp,REF-AWBA-005,Aw-Bare Camp Site 05,Partner Performance Monitoring,1,9.832203,43.042882,"9.832203, 43.042882",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-001,Kebribeyah Camp Site 01,Beneficiary Contact Monitoring,6,9.1237,43.271124,"9.1237, 43.271124",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-001,Kebribeyah Camp Site 01,Food Basket Monitoring,6,9.1237,43.271124,"9.1237, 43.271124",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-001,Kebribeyah Camp Site 01,Warehouse Monitoring,1,9.1237,43.271124,"9.1237, 43.271124",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-001,Kebribeyah Camp Site 01,Distribution Observation,1,9.1237,43.271124,"9.1237, 43.271124",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-001,Kebribeyah Camp Site 01,Partner Performance Monitoring,1,9.1237,43.271124,"9.1237, 43.271124",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-002,Kebribeyah Camp Site 02,Beneficiary Contact Monitoring,6,9.180123,43.13241,"9.180123, 43.13241",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-002,Kebribeyah Camp Site 02,Food Basket Monitoring,6,9.180123,43.13241,"9.180123, 43.13241",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-002,Kebribeyah Camp Site 02,Warehouse Monitoring,1,9.180123,43.13241,"9.180123, 43.13241",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-002,Kebribeyah Camp Site 02,Distribution Observation,1,9.180123,43.13241,"9.180123, 43.13241",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-002,Kebribeyah Camp Site 02,Partner Performance Monitoring,1,9.180123,43.13241,"9.180123, 43.13241",0,1,0.0,Not Visited / Not Submitted,Not Visited
+May 2025,Activity 3 Refugee Operations,GFD,WFP,Kebribeyah Camp,REF-KEBR-003,Kebribeyah Camp Site 03,Beneficiary Contact Monitoring,6,9.015153,43.245224,"9.015153, 43.245224",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,WFP,Kebribeyah Camp,REF-KEBR-003,Kebribeyah Camp Site 03,Food Basket Monitoring,6,9.015153,43.245224,"9.015153, 43.245224",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,WFP,Kebribeyah Camp,REF-KEBR-003,Kebribeyah Camp Site 03,Warehouse Monitoring,1,9.015153,43.245224,"9.015153, 43.245224",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,WFP,Kebribeyah Camp,REF-KEBR-003,Kebribeyah Camp Site 03,Distribution Observation,1,9.015153,43.245224,"9.015153, 43.245224",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,WFP,Kebribeyah Camp,REF-KEBR-003,Kebribeyah Camp Site 03,Partner Performance Monitoring,1,9.015153,43.245224,"9.015153, 43.245224",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-004,Kebribeyah Camp Site 04,Beneficiary Contact Monitoring,6,9.050593,43.230436,"9.050593, 43.230436",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-004,Kebribeyah Camp Site 04,Food Basket Monitoring,6,9.050593,43.230436,"9.050593, 43.230436",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-004,Kebribeyah Camp Site 04,Warehouse Monitoring,1,9.050593,43.230436,"9.050593, 43.230436",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-004,Kebribeyah Camp Site 04,Distribution Observation,1,9.050593,43.230436,"9.050593, 43.230436",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-004,Kebribeyah Camp Site 04,Partner Performance Monitoring,1,9.050593,43.230436,"9.050593, 43.230436",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-005,Kebribeyah Camp Site 05,Beneficiary Contact Monitoring,6,9.183863,43.256373,"9.183863, 43.256373",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-005,Kebribeyah Camp Site 05,Food Basket Monitoring,6,9.183863,43.256373,"9.183863, 43.256373",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-005,Kebribeyah Camp Site 05,Warehouse Monitoring,1,9.183863,43.256373,"9.183863, 43.256373",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-005,Kebribeyah Camp Site 05,Distribution Observation,1,9.183863,43.256373,"9.183863, 43.256373",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,GFD,TPM,Kebribeyah Camp,REF-KEBR-005,Kebribeyah Camp Site 05,Partner Performance Monitoring,1,9.183863,43.256373,"9.183863, 43.256373",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-001,Sheder Camp Site 01,Beneficiary Contact Monitoring,6,9.56026,43.111869,"9.56026, 43.111869",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-001,Sheder Camp Site 01,Food Basket Monitoring,6,9.56026,43.111869,"9.56026, 43.111869",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-001,Sheder Camp Site 01,Warehouse Monitoring,1,9.56026,43.111869,"9.56026, 43.111869",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-001,Sheder Camp Site 01,Distribution Observation,1,9.56026,43.111869,"9.56026, 43.111869",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-001,Sheder Camp Site 01,Partner Performance Monitoring,1,9.56026,43.111869,"9.56026, 43.111869",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-002,Sheder Camp Site 02,Beneficiary Contact Monitoring,6,9.520427,43.104177,"9.520427, 43.104177",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-002,Sheder Camp Site 02,Food Basket Monitoring,6,9.520427,43.104177,"9.520427, 43.104177",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-002,Sheder Camp Site 02,Warehouse Monitoring,1,9.520427,43.104177,"9.520427, 43.104177",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-002,Sheder Camp Site 02,Distribution Observation,1,9.520427,43.104177,"9.520427, 43.104177",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-002,Sheder Camp Site 02,Partner Performance Monitoring,1,9.520427,43.104177,"9.520427, 43.104177",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-003,Sheder Camp Site 03,Beneficiary Contact Monitoring,6,9.559996,43.082031,"9.559996, 43.082031",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-003,Sheder Camp Site 03,Food Basket Monitoring,6,9.559996,43.082031,"9.559996, 43.082031",6,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-003,Sheder Camp Site 03,Warehouse Monitoring,1,9.559996,43.082031,"9.559996, 43.082031",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-003,Sheder Camp Site 03,Distribution Observation,1,9.559996,43.082031,"9.559996, 43.082031",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-003,Sheder Camp Site 03,Partner Performance Monitoring,1,9.559996,43.082031,"9.559996, 43.082031",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-004,Sheder Camp Site 04,Beneficiary Contact Monitoring,6,9.561536,43.063034,"9.561536, 43.063034",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-004,Sheder Camp Site 04,Food Basket Monitoring,6,9.561536,43.063034,"9.561536, 43.063034",5,1,0.8333333333333334,Partial,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-004,Sheder Camp Site 04,Warehouse Monitoring,1,9.561536,43.063034,"9.561536, 43.063034",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-004,Sheder Camp Site 04,Distribution Observation,1,9.561536,43.063034,"9.561536, 43.063034",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-004,Sheder Camp Site 04,Partner Performance Monitoring,1,9.561536,43.063034,"9.561536, 43.063034",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-005,Sheder Camp Site 05,Beneficiary Contact Monitoring,6,9.544236,43.157077,"9.544236, 43.157077",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-005,Sheder Camp Site 05,Food Basket Monitoring,6,9.544236,43.157077,"9.544236, 43.157077",4,2,0.6666666666666666,Moderate Gap,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-005,Sheder Camp Site 05,Warehouse Monitoring,1,9.544236,43.157077,"9.544236, 43.157077",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-005,Sheder Camp Site 05,Distribution Observation,1,9.544236,43.157077,"9.544236, 43.157077",1,0,1.0,Complete,Visited
+May 2025,Activity 3 Refugee Operations,School Feeding,TPM,Sheder Camp,REF-SHED-005,Sheder Camp Site 05,Partner Performance Monitoring,1,9.544236,43.157077,"9.544236, 43.157077",0,1,0.0,Not Visited / Not Submitted,Not Visited
