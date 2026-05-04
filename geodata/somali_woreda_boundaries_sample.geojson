@@ -1,1 +1,414 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Awbare",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.53,
+              9.129999999999999
+            ],
+            [
+              43.03,
+              9.129999999999999
+            ],
+            [
+              43.03,
+              9.57
+            ],
+            [
+              42.53,
+              9.57
+            ],
+            [
+              42.53,
+              9.129999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babile",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.07,
+              9.0
+            ],
+            [
+              42.57,
+              9.0
+            ],
+            [
+              42.57,
+              9.440000000000001
+            ],
+            [
+              42.07,
+              9.440000000000001
+            ],
+            [
+              42.07,
+              9.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayisha",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.37,
+              10.52
+            ],
+            [
+              42.87,
+              10.52
+            ],
+            [
+              42.87,
+              10.96
+            ],
+            [
+              42.37,
+              10.96
+            ],
+            [
+              42.37,
+              10.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelafo",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.9,
+              5.4
+            ],
+            [
+              44.4,
+              5.4
+            ],
+            [
+              44.4,
+              5.84
+            ],
+            [
+              43.9,
+              5.84
+            ],
+            [
+              43.9,
+              5.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dollo Ado",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.82,
+              3.9499999999999997
+            ],
+            [
+              42.32,
+              3.9499999999999997
+            ],
+            [
+              42.32,
+              4.39
+            ],
+            [
+              41.82,
+              4.39
+            ],
+            [
+              41.82,
+              3.9499999999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fik",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.05,
+              7.910000000000001
+            ],
+            [
+              42.55,
+              7.910000000000001
+            ],
+            [
+              42.55,
+              8.350000000000001
+            ],
+            [
+              42.05,
+              8.350000000000001
+            ],
+            [
+              42.05,
+              7.910000000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duhun",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.3,
+              7.63
+            ],
+            [
+              42.8,
+              7.63
+            ],
+            [
+              42.8,
+              8.07
+            ],
+            [
+              42.3,
+              8.07
+            ],
+            [
+              42.3,
+              7.63
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harorays",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.8,
+              8.959999999999999
+            ],
+            [
+              43.3,
+              8.959999999999999
+            ],
+            [
+              43.3,
+              9.4
+            ],
+            [
+              42.8,
+              9.4
+            ],
+            [
+              42.8,
+              8.959999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhamu",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.33,
+              6.08
+            ],
+            [
+              44.83,
+              6.08
+            ],
+            [
+              44.83,
+              6.52
+            ],
+            [
+              44.33,
+              6.52
+            ],
+            [
+              44.33,
+              6.08
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aw-Bare Camp",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.77,
+              9.5
+            ],
+            [
+              43.27,
+              9.5
+            ],
+            [
+              43.27,
+              9.940000000000001
+            ],
+            [
+              42.77,
+              9.940000000000001
+            ],
+            [
+              42.77,
+              9.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kebribeyah Camp",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.94,
+              8.879999999999999
+            ],
+            [
+              43.44,
+              8.879999999999999
+            ],
+            [
+              43.44,
+              9.32
+            ],
+            [
+              42.94,
+              9.32
+            ],
+            [
+              42.94,
+              8.879999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheder Camp",
+        "admin_level": "woreda/camp_sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.83,
+              9.28
+            ],
+            [
+              43.33,
+              9.28
+            ],
+            [
+              43.33,
+              9.72
+            ],
+            [
+              42.83,
+              9.72
+            ],
+            [
+              42.83,
+              9.28
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "note": "Sample/demo polygons only. Replace with official Somali Region woreda boundary GeoJSON."
+}
