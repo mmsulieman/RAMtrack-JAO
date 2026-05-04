@@ -12,32 +12,467 @@ TPM_TEAL = "#16B6A1"
 def inject_css():
     st.markdown("""
     <style>
-    html, body, [class*='css'] {font-family: 'Segoe UI', Arial, sans-serif;}
-    .block-container {padding-top: 1.1rem; padding-bottom: 4.4rem; max-width: 96rem;}
-    section[data-testid='stSidebar'] {background: linear-gradient(180deg,#005EB8 0%,#074B8F 65%,#083B72 100%); color:white;}
-    section[data-testid='stSidebar'] .stMarkdown, section[data-testid='stSidebar'] .stExpander summary, section[data-testid='stSidebar'] label {color:white !important;}
-    section[data-testid='stSidebar'] .stExpander {background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.10); border-radius: 12px; margin-bottom: .45rem;}
-    .sidebar-logo {display:flex; gap:12px; align-items:center; margin-bottom: 1rem; padding: .35rem 0 .8rem 0;}
-    .sidebar-logo-mark {width:56px;height:56px;border-radius:12px;background:rgba(255,255,255,.12);display:flex;align-items:center;justify-content:center;font-weight:800;letter-spacing:.5px;border:1px solid rgba(255,255,255,.16);}
-    .sidebar-title {font-weight:800; font-size:1.02rem; line-height:1.1;}
-    .sidebar-sub {font-size:.82rem; opacity:.92; margin-top:4px;}
-    .page-title {font-size: 2.05rem; font-weight: 850; color:#0A4A8F; line-height:1.1;}
-    .page-subtitle {font-size: 1rem; color:#667085; margin-top:.25rem; margin-bottom: .85rem;}
-    .metric-tile {background:white; border:1px solid #E5E7EB; border-radius:18px; padding: 15px 15px; display:flex; gap:12px; align-items:center; min-height:92px; box-shadow: 0 5px 16px rgba(16,24,40,.05);}
-    .metric-icon {width:50px;height:50px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.25rem;font-weight:800;}
-    .metric-label {font-size:.84rem; color:#475467; font-weight:650;}
-    .metric-value {font-size:1.82rem; font-weight:850; color:#0F172A; line-height:1.15;}
-    .panel-title {font-weight: 800; color:#0A4A8F; margin: 1rem 0 .35rem; font-size:1rem;}
-    .rule-box {background:white; border:1px solid #E5E7EB; border-radius:16px; padding:14px 16px; line-height:1.95; box-shadow: 0 5px 16px rgba(16,24,40,.05);}
-    .plan-topbar {display:flex; justify-content:space-between; gap:10px; background:#FFF7E6; border:1px solid #F1D5A8; color:#6B4E16; padding:10px 14px; border-radius:12px; margin: 10px 0 8px; font-weight:650;}
-    [data-testid='stPlotlyChart'], [data-testid='stDataFrame'], [data-testid='stDataEditor'] {background:white; border:1px solid #E5E7EB; border-radius:16px; padding:6px; box-shadow: 0 5px 16px rgba(16,24,40,.05);}
-    .stButton button, div.stDownloadButton > button {background:#0B63CE; color:white; border:1px solid #0B63CE; font-weight:650; border-radius:10px;}
-    .stButton button:hover, div.stDownloadButton > button:hover {background:#094EA3; border-color:#094EA3; color:white;}
-    .footer {position:fixed; bottom:0; left:0; right:0; background:#005EB8; color:white; text-align:center; padding:8px 10px; font-size:.82rem; z-index:999;}
-    .note-box {background:#F8FBFF;border:1px solid #D9E8F7;border-left:5px solid #005EB8;border-radius:12px;padding:12px 14px;margin:8px 0;color:#1F2937;}
+    :root {
+        --wfp-blue: #005EB8;
+        --wfp-blue-2: #0072CE;
+        --wfp-dark: #003A70;
+        --wfp-navy: #082F57;
+        --surface: #FFFFFF;
+        --page-bg: #F4F7FB;
+        --border: #E5E7EB;
+        --text: #0F172A;
+        --muted: #64748B;
+        --success: #16A34A;
+        --warning: #F59E0B;
+        --danger: #DC2626;
+    }
+
+    html, body, [class*="css"], [class*="st-emotion"] {
+        font-family: "Segoe UI", Arial, sans-serif;
+    }
+
+    body {
+        background: var(--page-bg);
+    }
+
+    /* Use full viewport on desktop, with comfortable padding */
+    .block-container {
+        padding-top: 1.05rem !important;
+        padding-left: 1.35rem !important;
+        padding-right: 1.35rem !important;
+        padding-bottom: 4.8rem !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    div[data-testid="stAppViewContainer"] > .main {
+        background: var(--page-bg);
+    }
+
+    /* Sidebar: force readable white labels across Streamlit versions */
+    section[data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #005EB8 0%, #074B8F 60%, #083B72 100%) !important;
+        color: #F8FAFC !important;
+        min-width: 255px !important;
+    }
+
+    section[data-testid="stSidebar"] * {
+        color: #F8FAFC !important;
+    }
+
+    section[data-testid="stSidebar"] p,
+    section[data-testid="stSidebar"] span,
+    section[data-testid="stSidebar"] label,
+    section[data-testid="stSidebar"] div,
+    section[data-testid="stSidebar"] a,
+    section[data-testid="stSidebar"] li {
+        color: #F8FAFC !important;
+        font-size: 0.98rem !important;
+    }
+
+    /* Streamlit multipage navigation */
+    section[data-testid="stSidebar"] div[data-testid="stSidebarNav"] a,
+    section[data-testid="stSidebar"] [data-testid="stSidebarNav"] span,
+    section[data-testid="stSidebar"] [data-testid="stSidebarNav"] p {
+        color: #F8FAFC !important;
+        font-weight: 650 !important;
+        font-size: 0.96rem !important;
+        line-height: 1.25 !important;
+    }
+
+    section[data-testid="stSidebar"] div[data-testid="stSidebarNav"] a {
+        border-radius: 12px !important;
+        padding: 0.58rem 0.72rem !important;
+        margin: 0.16rem 0 !important;
+    }
+
+    section[data-testid="stSidebar"] div[data-testid="stSidebarNav"] a:hover {
+        background: rgba(255, 255, 255, 0.14) !important;
+    }
+
+    /* Sidebar custom brand/help */
+    .sidebar-logo {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        margin-bottom: 1rem;
+        padding: .55rem 0 1rem 0;
+        border-bottom: 1px solid rgba(255,255,255,.18);
+    }
+
+    .sidebar-logo-mark {
+        min-width: 58px;
+        width: 58px;
+        height: 58px;
+        border-radius: 14px;
+        background: rgba(255,255,255,.14);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 850;
+        letter-spacing: .5px;
+        border: 1px solid rgba(255,255,255,.18);
+        box-shadow: inset 0 0 0 1px rgba(255,255,255,.05);
+    }
+
+    .sidebar-title {
+        font-weight: 850 !important;
+        font-size: 1.06rem !important;
+        line-height: 1.12 !important;
+        color: #FFFFFF !important;
+    }
+
+    .sidebar-sub {
+        font-size: .86rem !important;
+        opacity: .94;
+        margin-top: 4px;
+        color: #DBEAFE !important;
+    }
+
+    section[data-testid="stSidebar"] .stExpander {
+        background: rgba(255,255,255,.08) !important;
+        border: 1px solid rgba(255,255,255,.14) !important;
+        border-radius: 13px !important;
+        margin-bottom: .55rem !important;
+    }
+
+    section[data-testid="stSidebar"] .stExpander summary {
+        color: #FFFFFF !important;
+        font-weight: 700 !important;
+        font-size: .95rem !important;
+    }
+
+    section[data-testid="stSidebar"] .stWarning,
+    section[data-testid="stSidebar"] [data-testid="stAlert"] {
+        background: rgba(255,255,255,.12) !important;
+        color: #FFFFFF !important;
+        border-color: rgba(255,255,255,.18) !important;
+    }
+
+    /* Headers */
+    .page-title {
+        font-size: clamp(1.45rem, 2.2vw, 2.15rem);
+        font-weight: 850;
+        color: #0A4A8F;
+        line-height: 1.12;
+        letter-spacing: -0.02em;
+    }
+
+    .page-subtitle {
+        font-size: clamp(.88rem, 1.2vw, 1.02rem);
+        color: #667085;
+        margin-top: .25rem;
+        margin-bottom: .85rem;
+        max-width: 84rem;
+    }
+
+    /* KPI cards */
+    .metric-tile {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        padding: 15px 15px;
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        min-height: 92px;
+        height: 100%;
+        box-shadow: 0 5px 16px rgba(16,24,40,.05);
+        overflow: hidden;
+    }
+
+    .metric-icon {
+        min-width: 48px;
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.18rem;
+        font-weight: 850;
+    }
+
+    .metric-label {
+        font-size: .84rem;
+        color: #475467;
+        font-weight: 700;
+        line-height: 1.18;
+    }
+
+    .metric-value {
+        font-size: clamp(1.32rem, 2vw, 1.85rem);
+        font-weight: 850;
+        color: #0F172A;
+        line-height: 1.12;
+        word-break: break-word;
+    }
+
+    .panel-title {
+        font-weight: 850;
+        color: #0A4A8F;
+        margin: 1rem 0 .35rem;
+        font-size: 1.02rem;
+        letter-spacing: -0.01em;
+    }
+
+    .rule-box,
+    .note-box {
+        background: #FFFFFF;
+        border: 1px solid #E5E7EB;
+        border-radius: 16px;
+        padding: 14px 16px;
+        line-height: 1.95;
+        box-shadow: 0 5px 16px rgba(16,24,40,.05);
+        overflow-wrap: anywhere;
+    }
+
+    .note-box {
+        background: #F8FBFF;
+        border-color: #D9E8F7;
+        border-left: 5px solid #005EB8;
+        color: #1F2937;
+        margin: 8px 0;
+    }
+
+    .plan-topbar {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 10px;
+        background: #FFF7E6;
+        border: 1px solid #F1D5A8;
+        color: #6B4E16;
+        padding: 10px 14px;
+        border-radius: 12px;
+        margin: 10px 0 8px;
+        font-weight: 700;
+    }
+
+    /* Cards around charts and tables */
+    [data-testid="stPlotlyChart"],
+    [data-testid="stDataFrame"],
+    [data-testid="stDataEditor"] {
+        background: #FFFFFF;
+        border: 1px solid #E5E7EB;
+        border-radius: 16px;
+        padding: 6px;
+        box-shadow: 0 5px 16px rgba(16,24,40,.05);
+        overflow-x: auto;
+    }
+
+    [data-testid="stDataFrame"] div,
+    [data-testid="stDataEditor"] div {
+        font-size: .86rem;
+    }
+
+    /* Inputs and buttons */
+    .stButton button,
+    div.stDownloadButton > button {
+        background: #0B63CE;
+        color: #FFFFFF !important;
+        border: 1px solid #0B63CE;
+        font-weight: 700;
+        border-radius: 10px;
+        min-height: 2.55rem;
+        white-space: normal;
+    }
+
+    .stButton button:hover,
+    div.stDownloadButton > button:hover {
+        background: #094EA3;
+        border-color: #094EA3;
+        color: #FFFFFF !important;
+    }
+
+    [data-testid="stSelectbox"],
+    [data-testid="stMultiSelect"],
+    [data-testid="stTextInput"],
+    [data-testid="stNumberInput"],
+    [data-testid="stFileUploader"] {
+        min-width: 0 !important;
+    }
+
+    label[data-testid="stWidgetLabel"],
+    [data-testid="stWidgetLabel"] p {
+        font-size: .82rem !important;
+        font-weight: 650 !important;
+        color: #344054 !important;
+    }
+
+    .footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: #005EB8;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 8px 10px;
+        font-size: .82rem;
+        z-index: 999;
+        box-shadow: 0 -2px 10px rgba(0,0,0,.08);
+    }
+
+    /* Better chart scaling */
+    .js-plotly-plot, .plot-container {
+        width: 100% !important;
+    }
+
+    /* Tablet layout improvements */
+    @media (max-width: 1024px) {
+        .block-container {
+            padding-left: .9rem !important;
+            padding-right: .9rem !important;
+            padding-top: .8rem !important;
+        }
+
+        .page-title {
+            font-size: 1.55rem !important;
+        }
+
+        .page-subtitle {
+            font-size: .9rem !important;
+        }
+
+        .metric-tile {
+            min-height: 82px;
+            padding: 12px;
+        }
+
+        .metric-icon {
+            min-width: 42px;
+            width: 42px;
+            height: 42px;
+            font-size: 1rem;
+        }
+
+        .metric-label {
+            font-size: .78rem;
+        }
+
+        .metric-value {
+            font-size: 1.28rem;
+        }
+
+        section[data-testid="stSidebar"] {
+            min-width: 230px !important;
+        }
+
+        section[data-testid="stSidebar"] p,
+        section[data-testid="stSidebar"] span,
+        section[data-testid="stSidebar"] label,
+        section[data-testid="stSidebar"] div,
+        section[data-testid="stSidebar"] a {
+            font-size: .92rem !important;
+        }
+    }
+
+    /* Mobile layout improvements */
+    @media (max-width: 760px) {
+        .block-container {
+            padding-left: .55rem !important;
+            padding-right: .55rem !important;
+            padding-top: .55rem !important;
+            padding-bottom: 5.6rem !important;
+        }
+
+        .page-title {
+            font-size: 1.28rem !important;
+            line-height: 1.18 !important;
+        }
+
+        .page-subtitle {
+            font-size: .82rem !important;
+            margin-bottom: .55rem;
+        }
+
+        .metric-tile {
+            min-height: 74px;
+            padding: 10px;
+            border-radius: 14px;
+            gap: 9px;
+        }
+
+        .metric-icon {
+            min-width: 36px;
+            width: 36px;
+            height: 36px;
+            font-size: .9rem;
+        }
+
+        .metric-label {
+            font-size: .72rem;
+        }
+
+        .metric-value {
+            font-size: 1.12rem;
+        }
+
+        .panel-title {
+            font-size: .92rem;
+            margin-top: .75rem;
+        }
+
+        [data-testid="stPlotlyChart"] {
+            padding: 2px;
+            border-radius: 12px;
+        }
+
+        [data-testid="stDataFrame"],
+        [data-testid="stDataEditor"] {
+            padding: 2px;
+            border-radius: 12px;
+        }
+
+        [data-testid="stDataFrame"] div,
+        [data-testid="stDataEditor"] div {
+            font-size: .75rem !important;
+        }
+
+        .stButton button,
+        div.stDownloadButton > button {
+            width: 100%;
+            min-height: 2.4rem;
+            font-size: .82rem;
+        }
+
+        .footer {
+            font-size: .68rem;
+            padding: 7px 8px;
+        }
+
+        section[data-testid="stSidebar"] {
+            min-width: 210px !important;
+        }
+
+        .sidebar-logo-mark {
+            min-width: 44px;
+            width: 44px;
+            height: 44px;
+            font-size: .8rem !important;
+        }
+
+        .sidebar-title {
+            font-size: .9rem !important;
+        }
+
+        .sidebar-sub {
+            font-size: .72rem !important;
+        }
+
+        section[data-testid="stSidebar"] p,
+        section[data-testid="stSidebar"] span,
+        section[data-testid="stSidebar"] label,
+        section[data-testid="stSidebar"] div,
+        section[data-testid="stSidebar"] a {
+            font-size: .84rem !important;
+        }
+    }
     </style>
     <div class='footer'>Prepared for WFP Jijiga Area Office · RAM Unit · Dynamic Monitoring Planning and Checklist Compliance</div>
     """, unsafe_allow_html=True)
+
 
 def sidebar_brand():
     with st.sidebar:
