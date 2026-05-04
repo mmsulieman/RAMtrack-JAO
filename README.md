@@ -114,3 +114,21 @@ Visit coverage is calculated as:
 `Unique visited planned FDPs/sites ÷ unique planned FDPs/sites`
 
 WFP/TPM split is calculated among visited sites only.
+
+
+
+## New in v3.2: Responsive UI Refinement
+
+This version improves the user interface for deployment across desktop, tablet and mobile screens.
+
+Key improvements:
+- White, larger, higher-contrast sidebar labels
+- Better full-width desktop page usage
+- Improved padding and spacing across pages
+- Responsive font sizes using CSS `clamp()`
+- Better KPI card scaling on smaller screens
+- Improved table/chart container behavior with horizontal overflow support
+- Tablet/mobile media queries for smaller titles, cards, buttons and footer
+- Minimal Streamlit toolbar mode through `.streamlit/config.toml`
+
+The app is still dashboard-heavy, so large analytical tables remain best viewed on desktop or tablet. On mobile, filters and charts stack vertically and tables can be horizontally scrolled.
